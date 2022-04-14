@@ -1,0 +1,376 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  
+  <head>
+    
+  <link rel="shortcut icon" href="/media/static/ssrc-favicon.ico" type="image/vnd.microsoft.icon">
+
+    <title>
+      
+  SSRC publication:  Ceph: A Scalable, High-Performance Distributed File System
+
+    </title>
+
+    <!--<base href="https://www.ssrc.ucsc.edu/"> -->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+    <script type="text/javascript">var jslang='EN';</script>
+    <script src="/media/static/js/jquery-1.9.1.min.js"></script>
+    <script src="/media/static/js/custom.modernizr.js"></script>
+    <script src="https://use.fontawesome.com/780162183c.js"></script>
+    <link rel="stylesheet" href="/media/static/foundation.css" />
+    <link rel="stylesheet" href="/media/static/normalize.css" />
+    <link rel="stylesheet" href="/media/static/slick.css" />
+    <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+<link href="/media/static/global.css" rel="stylesheet" type="text/css">
+    <!-- <link href="/media/static/global.css" rel="stylesheet" type="text/css"> -->
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+    <style>
+        .printable {position: absolute; top: 0px; text-align: right; width: 95%; }
+    </style>
+
+    
+
+    
+
+  </head>
+  
+  <body>
+  
+  <header>
+    <div class="row header-wrapper">
+      <div class="columns large-12 header-wrapper-column"> <a href="https://www.soe.ucsc.edu/"><img src="/media/static/baskin-logo.png" alt="Jack Baskin School of Engineering" id="uclogo"></a>
+        <div id="utility">
+          <ul>
+            <li style="white-space: nowrap;">
+              
+                <a href="/accounts/login/"><em class="fa fa-lock" aria-hidden="true">&nbsp;</em>User Login</a>
+              
+            </li>
+            <li><a href="/wiki"><em class="fa fa-book" aria-hidden="true">&nbsp;</em> SSRC Wiki</a></li>
+            <li><a href="https://git.ssrc.us:4443/">&#x1F4BB;&nbsp;SSRC Git</a></li>
+            <li style="font-size: 75%;"><a href="/admin/">&#x270E&nbsp;Edit Site</a></li>
+          </ul>
+        </div><!-- end #utility -->
+        <a href="/index.html" id="logo"><img src="/media/static/ssrc-logo18.png" alt="SSRC Storage Systems Research Center"></a>
+          
+<nav> <a href="#" id="menu-toggle">Navigation</a>
+        <div class="window">
+          <ul>
+            <li><a href="#">About</a>
+              <ul>
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/about.html">About SSRC</a></li>
+                <li><a href="/joining.html">Joining the SSRC</a></li>
+              </ul>
+            </li>
+            <li><a href="#">News &amp; Events</a>
+              <ul>
+                <li><a href="/news/2022/">News</a></li>
+                <li><a href="/events/2022/">Events</a></li>
+                <li><a href="/seminars.html">Seminars</a></li>
+                <li><a href="http://www.crss.ucsc.edu/iabmeetings.html">Retreats &amp; IAB meetings</a></li>
+              </ul>
+            </li>
+            <li><a href="#">People</a>
+              <ul>
+                <li><a href="/allpeople.html">All People</a></li>
+                <li><a href="/faculty.html">Faculty</a></li>
+                <li><a href="/students.html">Students</a></li>
+                <li><a href="/associates.html">Associates</a></li>
+                <li><a href="/staff.html">Staff</a></li>
+                <li><a href="/alumni.html">Alumni</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Research</a>
+              <ul>
+                <li><a href="/research.html">All Research</a></li>
+                
+                
+                <li><a href="/proj/scm.html">Storage Class Memories</a></li>
+                
+                
+                
+                <li><a href="/proj/osnvm.html">Operating Systems Support for NVM</a></li>
+                
+                
+                
+                <li><a href="/proj/archive.html">Archival Storage</a></li>
+                
+                
+                
+                
+                
+                <li><a href="/proj/securefs.html">Secure File and Storage Systems</a></li>
+                
+                
+                
+                <li><a href="/proj/Artifice.html">Deniable File Systems</a></li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li><a href="/proj/storeiot.html">Storage/Energy Efficiency in IoT</a></li>
+                
+                
+                
+                <li><a href="/proj/tracing.html">Tracing and Benchmarking</a></li>
+                
+                
+                
+                <li><a href="/proj/exscale.html">Ultra-Large Scale Storage</a></li>
+                
+                
+                
+                <li><a href="/proj/cs.html">Computational Storage</a></li>
+                
+                
+                
+                
+                
+                
+                
+                <li><a href="/proj/QLC.html">Designing systems for QLC flash</a></li>
+                
+                
+                
+                
+                
+                
+                
+                <li><a href="/proj/fsel.html">Feature selection</a></li>
+                
+                
+                
+                <li><a href="/proj/Zoro.html">Zoroaster: Realistic synthetic workload</a></li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </ul>
+            </li>
+            <li><a href="#">Publications</a>
+              <ul>
+                <li><a href="/pubs/rev_pub_date.html">All Publications</a></li>
+                <li><a href="/techreports/rev_pub_date.html">Technical Reports</a></li>
+                <li><a href="/posters.html">Posters</a></li>
+                <li><a href="/software.html">Software</a></li>
+                <li><a href="/traces.html">Traces</a></li>
+                <li><a href="/paperarchive.html">Storage Bibliography</a></li>
+                <li><a href="https://sites.google.com/a/ucsc.edu/ssrc/">SSRC Wiki</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Sponsors</a>
+              <ul>
+                <li><a href="https://www.ssrc.ucsc.edu/accounts/login/">User Login</a></li>
+                <li><a href="https://www.crss.ucsc.edu/sponsoring.html">Become a Sponsor</a></li>
+                <li><a href="https://www.crss.ucsc.edu/factsheet.html">CRSS Fact Sheet</a></li>
+                <li><a href="/sponsorlist.html">List of Sponsors</a></li>
+              </ul>
+            </li>
+            <li><a href="/contact.html">Contact</a></li>
+          </ul>
+        </div>
+      </nav>
+      <!-- end nav -->
+
+  </div>
+    <!-- end .columns.large-12 -->
+  </div>
+  <!-- end .row -->
+</header>
+<!-- end header -->
+
+          <div id="pagewrapper">
+                <section class="main">
+            <div class="row">
+                <div class="large-12 medium-12 small-12 columns">
+
+    <div class="webdesign-breadcrumbs">
+        <ul>
+            <li><a href="/index.html">Home</a></li>
+            <li><a href="/pubs/rev_pub_date.html">All Publications</a></li>
+            <li class="selected"><a href="#">Ceph: A Scalable, High-Performance Distributed File System</a></li>
+        </ul>
+    </div>
+
+
+
+          <div class="row">
+            <div class="large-12 medium-12 small-12 columns">
+
+          <div class="summary">
+
+          
+            
+  
+    
+    <h2>Ceph: A Scalable, High-Performance Distributed File System</h2>
+    <p>
+        
+              Appeared in <i><i>Proceedings of the 7th Conference on Operating Systems Design and Implementation (OSDI '06)</i></i>.
+        
+        
+    </p>
+    
+        <h3>Abstract</h3>
+        
+            <p><p>We have developed Ceph, a distributed file system that provides excellent performance, reliability, and scalability. Ceph maximizes the separation between data and metadata management by replacing allocation tables with a pseudo-random data distribution function (CRUSH) designed for heterogeneous and dynamic clusters of unreliable object storage devices (OSDs). We leverage device intelligence by distributing data replication, failure detection and recovery to semi-autonomous OSDs running a specialized local object file system. A dynamic distributed metadata cluster provides extremely efficient metadata management and seamlessly adapts to a wide range of general purpose and scientific computing file system workloads. Performance measurements under a variety of workloads show that Ceph has excellent I/O performance and scalable metadata management, supporting more than 250,000 metadata operations per second.</p></p>
+        
+    
+    <p><strong>Publication date:</strong><br>November 2006</p>
+    <p>
+        <strong>Authors:</strong><br>
+        
+            
+                <a href="/person/sage.html">Sage Weil</a><br>
+            
+        
+            
+                Scott A. Brandt<br>
+            
+        
+            
+                <a href="/person/elm.html">Ethan L. Miller</a><br>
+            
+        
+            
+                <a href="/person/darrell.html">Darrell D. E. Long</a><br>
+            
+        
+            
+                Carlos Maltzahn<br>
+            
+        
+    </p>
+
+    <p>
+        <strong>Projects:</strong><br>
+        
+            <a href="/proj/exscale.html">Ultra-Large Scale Storage</a><br />
+        
+    </p>
+
+    
+        <h3>Available media</h3>
+        <p>
+            
+                <strong>Full paper text:</strong>
+                
+                    <a href="/media/pubs/6ebbf2736ae06c66f1293b5e431082410f41f83f.pdf" target="ssrcpaper">PDF</a>
+                
+                
+            
+        </p>
+    
+
+    <h3>Bibtex entry</h3>
+    
+<pre>@inproceedings{weil-osdi06,
+  author       = {Sage Weil and Scott A. Brandt and Ethan L. Miller and Darrell D. E. Long and Carlos Maltzahn},
+  title        = {Ceph: A Scalable, High-Performance Distributed File System},
+  booktitle    = {<i>Proceedings of the 7th Conference on Operating Systems Design and Implementation (OSDI '06)</i>},
+  month        = nov,
+  year         = {2006},
+}</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="modified">
+    <address>Last modified 5 Aug 2020</address>
+    </div><!-- end modified -->
+
+
+                    
+
+
+          </div>
+
+
+
+                </div>
+                </div>
+          </div></div>
+          </section>
+          <!--end section main-->
+
+          </div>
+
+
+          <footer>
+            <div class="footerwrapper"> </div>
+            <div class="footer-bottom-section">
+              <div class="row">
+                <div class="small-12 medium-12 large-12 columns">
+                  <div class="small-12 medium-7 large-7  columns">
+                    <div> <a href="/index.html" id="logofooter"><img src="/media/static/ssrc-logo18-reverse.png" alt="SSRC Storage Systems Research Center"></a>
+                      <p>  
+            	    &copy; 2022 SSRC &amp; UC Santa Cruz<br />
+                        
+			Contact information:<br />
+                        Jack Baskin School of Engineering<br />
+                        University of California<br />
+                        1156 High Street<br />
+                        Santa Cruz, CA 95064, USA<br />
+                        Phone: +1 (831) 459-2817<br />
+                        Fax: +1 (831) 459-1041</p>
+
+                        <div class="disclaimer">
+                        </div>
+
+
+                    </div>
+                    
+                  </div>
+                  <div class="small-12 medium-3 large-3 columns">
+                    <div class="socialmedia">
+                      <ul>
+                        <li><a href="http://www.facebook.com" class="fa fa-facebook" aria-hidden="true"></a></li>
+                        <li><a href="http://www.youtube.com" class="fa fa-youtube-square" aria-hidden="true"></a></li>
+                        <li><a href="http://www.linkedin.com" class="fa fa-linkedin" aria-hidden="true"></a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="small-12 medium-2 large-2 columns no-padding"> <a href="#" class="scrollToTop"><img alt="Scroll Up" src="/media/static/scrollup.png"></a></div>
+                  <div class="sitecreditwrapper"><p><span class="sitecredit">Site by <a href="http://www.webhelper.com">Webhelper.com</a></span></p></div>
+                </div>
+              </div>
+            </div>
+          </footer>
+          <script src="/media/static/js/scripts.js"></script>
+          <script src="/media/static/js/foundation.js"></script>
+          <script src="/media/static/js/slick.min.js"></script>
+          <script src="/media/static/js/wow.js"></script>
+
+        </body>
+        </html>

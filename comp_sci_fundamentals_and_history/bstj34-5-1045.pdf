@@ -1,0 +1,3207 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.nokia.com/networks/" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content="Network solutions to connect the world" />
+<meta property="og:site_name" content="Nokia" />
+<meta property="og:type" content="lander" />
+<meta property="og:url" content="https://www.nokia.com/networks/" />
+<meta property="og:title" content="Networks | Nokia" />
+<meta property="og:description" content="Network solutions to connect the world" />
+<meta property="og:image" content="https://www.nokia.com/sites/default/files/2021-12/ResrcID29244_GettyImages-837125558-low_0_1.jpg" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="search-language" class="swiftype" data-type="string" content="en" />
+<meta name="search-location" class="swiftype" data-type="string" content="int" />
+<meta name="search-updated" class="swiftype" data-type="date" content="2022-04-06T10:36:46+00:00" />
+<meta name="search-category" class="swiftype" data-type="string" content="business" />
+<link rel="alternate" hreflang="en" href="https://www.nokia.com/networks/" />
+
+    <title data-swiftype-name="search-title" data-swiftype-type="string">Networks | Nokia</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_TgyWiY3EE2NfMOlkznysqtpdynRMfFub9uSZIia9ZA8.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_LFEfvPNrceMS8rApIiF4RMKgztUKj_3Vdug8Lh6hGTs.css" />
+
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/onenokia_base_theme/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/themes/custom/onenokia_base_theme/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/themes/custom/onenokia_base_theme/icons/favicon-16x16.png">
+    <link rel="manifest" href="/themes/custom/onenokia_base_theme/icons/site.webmanifest">
+    <link rel="mask-icon" href="/themes/custom/onenokia_base_theme/icons/safari-pinned-tab.svg" color="#124191">
+    <link rel="shortcut icon" href="/themes/custom/onenokia_base_theme/icons/favicon.ico">
+    <link rel="preload" as="font" media="all" href="/themes/custom/onenokia_base_theme/fonts/nokia/nokia_new_fonts.css" />
+        <link rel="preconnect" href="https://rtp-static.marketo.com">
+    <link rel="dns-prefetch" href="https://rtp-static.marketo.com">
+    <link rel="preconnect" href="https://www.youtube.com">
+    <link rel="dns-prefetch" href="https://www.youtube.com">
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://www.google-analytics.com">
+    <link rel="dns-prefetch" href="https://www.google-analytics.com">
+        <meta name="apple-mobile-web-app-title" content="Nokia">
+    <meta name="application-name" content="Nokia">
+    <meta name="msapplication-TileColor" content="#124191">
+    <meta name="msapplication-config" content="/themes/custom/onenokia_base_theme/icons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+          <link rel="preconnect" href="https://sjrtp8-cdn.marketo.com">
+      <link rel="dns-prefetch" href="https://sjrtp8-cdn.marketo.com">
+      <!-- RTP tag -->
+      <script type='text/javascript'>
+        (function(c,h,a,f,i,e){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+          c[a].a=i;c[a].e=e;var g=h.createElement("script");g.async=true;g.type="text/javascript";
+          g.src=f+'?aid='+i;var b=h.getElementsByTagName("script")[0];b.parentNode.insertBefore(g,b);
+        })(window,document,"rtp","//sjrtp8-cdn.marketo.com/rtp-api/v1/rtp.js","nokia2");
+
+        rtp('send','view');
+        rtp('get', 'campaign',true);
+      </script>
+      <!-- End of RTP tag -->
+    
+          <script type='text/javascript'>
+        var scopeData = {"Marketing_page":{"page_tacticID":"T005YR","page_tacticName":"","page_programID":"","page_campaignID":""},"Content":{"mcaSegment":"","businessType":"","businessLine":""}};
+      </script>
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/113061","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"google_webfont_loader_api\/fonts,google_webfont_loader_api\/webfont_loader,nokia_autocomplete_advanced\/autocomplete,nokia_search\/search-style,nokia_search\/speech-recognition,nokone_navigation\/language_cookies,onenokia_base_theme\/c23_component,onenokia_base_theme\/data-layer-events,onenokia_base_theme\/fittext,onenokia_base_theme\/jquery-mousewheel,onenokia_base_theme\/jquery-touchswipe,onenokia_base_theme\/js-cookie,onenokia_base_theme\/lazy-loading-images,onenokia_base_theme\/main,onenokia_base_theme\/marketodata,onenokia_base_theme\/scopedata,paragraphs\/drupal.paragraphs.unpublished,system\/base","theme":"onenokia_base_theme","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"google_webfont_loader_api":{"loaded":"TRUE","font_config":{"custom":{"families":["NokiaPureHeadlineBold","NokiaPureHeadlineLight","NokiaPureHeadlineRegular","NokiaPureTextBold","NokiaPureTextLight","NokiaPureTextReg"],"urls":["https:\/\/www.nokia.com\/themes\/custom\/onenokia_base_theme\/fonts\/nokia\/nokia_new_fonts.css"]},"timeout":3000}},"data_layer_events":{"on_page_load":{"webContentType":"Lander","contentSME":"Erik Hagborg","businessArea":"CORP - Brand\/Online","tacticID":"T005YR","modules":"(T17) Open Template,C0 - Layout Container,C0 - Layout Row,C1 - Reference component,Editable entity reference,C23 - Dynamic reference,M 2.0 - Introduction"},"module_list":{"c0_layout_container":"C0 - Layout Container","c0_layout_row":"C0 - Layout Row","c1_0_reference_component":"C1 - Reference component","c23_component":"C23 - Dynamic reference","editable_entity_reference":"Editable entity reference","m2_intro":"M 2.0 - Introduction","template_t17":"(T17) Open Template","block_container":"Block Container","block_reference":"Block reference","c0_1_hero_container":"C0.1 [Hero] container","c0_2_carousel_container":"C0.2 - Carousel Container","c10_external_includes":"C10 - External includes","c15_quote_carousel":"C15 - Quote carousel","c15_quote_component":"C15 - Quote component","c16_title":"C16 - Title","c17_herocopy":"C17 - HeroCopy","c18_landerliftup":"C18 - LanderLiftUp","c19_table":"C19 - Table","c20_nohero_component":"C20 - NoHero component","c21_social_component":"C21 - Social Component","c22_2_podcast_subscription_link":"C22.2 - Podcast subscription link","c22_podcast_subscription_links":"C22 - Podcast subscription links","c23_dynamic_reference":"C23 - Dynamic reference [DEPRECATED]","c24_dynamic_content_presentation":"C24 - Dynamic content presentation [DEPRECATED]","c25_social_media_feed":"C25 - Social Media Feed","c26_popup":"C26 - PopUp","c26_popup_item":"C26.1 - PopUp item","c26_popup_manual_input":"C26.1.1 - Popup - Manual input","c2_accordion":"C2 - Accordion","c2_accordion_item":"C2 - Accordion item","c3_vertical_nav":"C3 - Vertical Nav","c4_simple_text":"C4 - Simple text","c5_media":"C5 - Media","c6_complextext":"C6 - ComplexText","c7_cards":"C7 - Cards","c8_button":"C8 - Button","c9_1_highlight":"C9.1 - Highlight","c9_highlights":"C9 - Highlights","call_to_action":"Call to Action","content_with_label":"Content with label (Deprecated)","content_with_url":"Content with URL (Deprecated)","editable_footer_block":"Editable Footer Block","editable_footer_element":"Editable Footer Element","entity_reference":"Entity reference (Deprecated - Do not use)","html_anchor_module":"HTML Anchor Module","m100_lander_block":"M100.0 - Lander Block","m10_featured_content":"M 10.0 - Featured Content","m11_snapshot":"M 11.0 - Snapshot","m12_content_card":"M 12.0 - Content Card","m12_content_card_item":"M 12.1 - Content Card Item","m13_form":"M 13.0 - Form","m13_form_extension":"M 13.0 - Form Extension","m14_image_carousel":"M 14.0 - Image Carousel","m14_image_carousel_item":"M 14.1 - Image Carousel Item","m15_category_content":"M 15.0 - Category Content","m16_subcontent":"M 16.0 - Subcontent","m17_cta":"M 17.0 - CTA","m19_0_quotes_main":"M 19.0 - Quotes Main","m1_tabbed_bitesize_content":"M 1.2 - Tabbed Bitesize Content","m1_tabbed_content":"M 1.0 - Tabbed content","m1_tabbed_content_video":"M 1.1 - Tabbed Content Image\/Video","m21_personaled_content":"M 21.0 - Persona led content","m21_personaled_content_card":"M 21.2 - Persona led content - card","m21_personaled_content_item":"M 21.1 - Persona led content - job title","m22_0_carousel":"M 22.0 - Carousel","m23_0_tba":"M 23.0 - TBA","m24_latest_content":"M 24.0 - Latest content","m25_related_content":"M 25.0 - Related content","m25_related_content_item":"M 25.1 - Related Content Item","m29_divider":"M 29.0 - Divider","m29_divider_panel":"M 29.1 - Divider Panel","m2_carousel":"M 2.0 - Carousel","m2_carousel_slide":"M 2.0 - Carousel Slide","m30_segment_content":"M 30.0 - Segment Content","m31_events_carousel":"M 31.0 - Events Carousel","m32_2_column_layout":"M 32.2 - 2 Column Layout","m32_3_column_layout":"M 32.1 - 3 Column Layout","m32_explore_content":"M 32.0 - Explore content","m32_explore_content_column":"M 32.3 - Explore Content Column","m34_wayfinder":"M 34.0 - Wayfinder","m38_more_content":"M 38.0 - More Content","m39_into_the_detail":"M 39.2 - Into the Detail","m3_book_an_event":"M 3.0 - Book an Event","m42_accordion":"M 42.0 - Accordion","m43_2_intropanels":"M 43.2 - IntroPanels","m43_2_left_panel":"M 43.2 - Left Panel","m43_2_right_panel":"M 43.2 - Right Panel","m43_download":"M 43.0 - Download","m44_splitcontent":"M 44.0 - Splitcontent","m45_1_socialsharing_links":"M 45.1 - Social Sharing Links","m45_socialsharing":"M 45.0 - Social Sharing","m46_single_container":"M 46.1 - Single-Panel Container","m46_svg_container":"M 46.0 - SVG Container","m46_two_panel_container":"M 46.2 - Two-Panel Container","m48_1_author_profile":"M 48.1 - Author profile","m48_author":"M 48.0 - Author","m4_quotes":"M 19.1 - Quote","m4_stats":"M 4.0 - Stats","m4_stats_item":"M 4.1 - Stats Item","m54_stock":"M 54.0 - Stock","m55_library":"M 55.0 - Library","m55_library_item":"M 55.1 - Library item","m56_awards":"M 56.0 - Awards","m57_1_tab":"M 57.1 - Tab","m57_tabbed_module":"M 57.0 - Tabbed module","m59_select_list":"M 59.0 - Investors select List","m60_overview":"M 60.0 - Overview","m61_specifications":"M 61.0 - Specifications","m65_1_panel_content_row":"M 65.1 - Panel Content Row","m65_2_panel_content_item":"M 65.2 - Panel Content Item","m65_panel_content":"M 65.0 - Panel Content","m66_html5_container":"M 66.0 - HTML5 Container","m67_iframe_container":"M 67.0 - Iframe Container","m68_large_panel":"M 68 - Large Panel","m68_small_panel":"M 68 - Small Panel","m68_splitpanels":"M 68 - SplitPanels","m6_9_insights_listing":"M 6.9 - Insights listing","m6_9_insights_listing_item":"M 6.9 - Insights listing group","m6_9_more_insights":"M 6.9 - More insights","m6_insights":"M 6.0 - Insights","m70_0_social_media":"M 70.0 - Social Media","m70_1_social_media_row":"M 70.1 - Social Media Row","m70_2_social_media_platform":"M 70.2 - Social Media Platform","m71_0_pinned_video":"M 71.0 - Pinned Video","m72_0_featured_banner":"M 72.0 - Featured Banner","m74_bitesized_content":"M 74.0 - Bitesized content","m75_liftup":"M 75.0 - Liftup","m77_sticky_cta":"M 77 - Sticky CTA","m78_0_content_carousel":"M 78.0 - Content Carousel","m78_1_content_carousel_item":"M 78.1 - Content Carousel Item","m79b_add_to_calendar":"M 79B - Add to calendar","m7_content_selector_grid":"M 7.0 - Content selector grid","m80_1_module_accordion_item":"M 80.1 - Module accordion item","m80_module_accordion":"M 80 - Module accordion","m81_flipbook":"M 81 - Flipbook","m82_product_selector_tool":"M 82 - Product Selector tool","m83_1_vertical_tab_content":"M 83.1 - Vertical tab content","m83_2_vertical_tab_columns":"M 83.2 - Vertical tab columns","m83_3_vertical_tab_column":"M 83.3 - Vertical tab column","m83_4_vertical_tab_columns":"M 83.4 - Vertical tab columns","m83_vertical_tab_container":"M 83 - Vertical tab container","m84_countdown":"M 84 - Countdown","m84_countdown_event":"M 84 - Countdown Event","m8_listings":"M 8.0 - Listings","m8_list_item":"M 8.1 - List Item","m9_carousel_item":"M 9.1 - Carousel Item","m9_content_snippet":"M 9.0 - Content Snippet","m_15_1_category_content_item":"M 15.1 - Category Content Item","m_17b_cta_type_b":"M 17B - CTA Type B","m_30_bitesize_contents":"M 30.1 - Bitesize Contents (Deprecated)","m_39_detail_tab":"M 39.1 - Detail Tab","m_39_into_the_detail_main":"M 39.0 - Into the Detail Main","m_42_1_accordion_item":"M 42.1 - Accordion Item","m_48_2_author_reference":"M 48.2 - Author reference","m_4_0_stats_alternate":"M 4.0 - Stats Alternate","m_58_content_rows":"M 58 - Content rows","m_63_0_social_media_feed":"M 63.0 - Social Media Feed","m_69_1_subnav_tab":"M 69 1 - Subnav Tab","m_69_subnav":"M 69 - Subnav","m_74_1_bitesized_content_item":"M 74.1 - Bitesized content item","m_79_0_add_to_calendar":"M 79.0 - Add to Calendar","m_85_patent_wall":"M 85 - Patent Wall","m_9_case_study":"M 9.0 - Case study","resource":"Resource","simple_video":"Simple Video","social_link":"Social Link","template_t1":"(T1) Nokia.com Landing Template","template_t11":"(T11) Campaign Landing Template","template_t11_1":"(T11.1) Subcampaign Landing","template_t13":"(T13) Generic Category Template","template_t14":"(T14) Generic Article Template","template_t16":"(T16) About Landing Template","template_t2":"(T2) Business Landing Template","template_t4":"(T4) Industry Landing Template","template_t5":"(T5) Category Landing Template","template_t5_1":"(T5.1) Subcategory Landing Template","template_t6":"(T6) Topic Detail Template"}},"user":{"uid":0,"permissionsHash":"4dd7cb666079df061f95a90a68db9c5e2db3ede15161270d3ed6e31ec6102ee6"}}</script>
+<script src="/sites/default/files/js/js_yAB5X5XtwFn5xCasNUTUPnRI-WYa0sZ8ITokITT4zhs.js"></script>
+
+                        
+            <!-- Anti-flicker snippet (recommended)  -->
+            <style>.async-hide { opacity: 0 !important} </style>
+            <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+                h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+                (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+              })(window,document.documentElement,'async-hide','dataLayer',8000, {
+                                                'GTM-5433JV': true,
+                              });</script>
+        
+        
+          
+                                  <!-- Google Tag Manager - Install in Head -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+              })(window,document,'script','dataLayer', 'GTM-5433JV');
+
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'GTM-5433JV');
+            </script>
+            <!-- End Google Tag Manager - Install in Head -->
+          
+                
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="Y93K3-6TW6G-ESTV2-DHSA8-F37E9",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"Y93K3-6TW6G-ESTV2-DHSA8-F37E9";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="nqibfpdinmcgeysxvkpq-f-93f058752-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"32","ak.cp":"365968","ak.ai":parseInt("325475",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"2f5b2e3","ak.r":26478,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"108.16.18.0","ak.cport":54238,"ak.gh":"23.215.131.85","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1649912479","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==CNtXB7aJZOW1Yae9I9kxES0e8QYmhh6psOWG32As1jMBF045ahNDqeHDW6+Et4VK+HvBi9BaSMEMa4GQO8D81tHGv3MkVCngm0OM3vX8X5v2G1XjU9JMAaHrtbKG4QZg7U+MWM+aJypINJMO0U7tvcn6lG3+Hl+1GFkckSYjp6tbH3SIIQko5Bl/QC78XZnNkteKWJ9RENQVzeW7lfHw4PF7SpeKXCch2waPbBZBYiuU13Ga2ZI0VkCdN8xAZ5K3a9bLygjEfZPXwMsLxOvY9uDZ55X8CI22Y+App6QIpYdHN4qzAIICfxoOalm952aNeD9mTDflMlDEqgTv/iaX56jYR83mYKRs1TVff+jmM/uvX5xVA/feFoRatrzU22lEGq1Q1q9fZVnHJ+rpfK3zGn/Og5+FXePRvb6gdlqe0X0=","ak.pv":"395","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+  <body data-node="113061" data-created="1638553895" data-updated="1649241406" data-content-type="lander" data-language="en" data-page-type="lander" data-swiftype-name="search-body" data-swiftype-type="text">
+      
+      
+                      <!-- Google Tag Manager (noscript) - Install in Body -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5433JV"
+                          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) - Install in Body -->
+      
+              <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="layout-container">
+
+  <header class="page-header" role="banner" data-global-lang-toggle="true">
+    <div class="navigation-wrapper-outer">
+          
+<div class="navigation-wrapper">
+  <nav  class="navigation container full-width navigation-subpage">
+    <div class="nr">
+      <div class="nc-2 nc-mobile-2 logo-column">
+                <a href="https://www.nokia.com" class="level-logo" aria-label="Nokia Homepage" data-linktype="header">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 134.84" width="100" height="20" aria-label="Nokia logo" focusable="false">
+  <path fill="#124191" d="M38.52 133.18H0V2.18H66.62L143.05 99.98V2.18H181.57V133.18H116.3L38.52 33.71V133.18M365.87 92.67C365.87 110.88 362.65 117.16 357.32 123.18C349.15 132.14 337.26 134.84 314.35 134.84L248.58 134.84C225.67 134.84 213.76 132.14 205.6 123.18C200.27 117.16 197.05 110.88 197.05 92.67L197.05 42.17C197.05 23.97 200.27 17.7 205.6 11.67C213.77 2.7 225.67 0 248.58 0L314.35 0C337.26 0 349.15 2.7 357.32 11.67C362.65 17.7 365.87 23.97 365.87 42.17L365.87 92.67M312.73 101.65C321.53 101.65 324.63 101.13 326.74 99.21C328.71 97.42 329.58 95.11 329.58 87.41L329.58 47.43C329.58 39.73 328.71 37.44 326.74 35.64C324.63 33.71 321.53 33.2 312.73 33.2L250.19 33.2C241.39 33.2 238.29 33.71 236.19 35.64C234.21 37.44 233.34 39.73 233.34 47.43L233.34 87.41C233.34 95.11 234.21 97.42 236.19 99.21C238.29 101.13 241.39 101.65 250.19 101.65L312.73 101.65V101.65M421.85 2.18V133.18H381.6V2.18H421.85M489.85 2.18H542.99L471.27 63.45 552.16 133.18H495.3L421.85 64.86 489.85 2.18M559.58 2.18H599.84V133.18H559.58M753.31 133.18 741.4 110.36H663.51L651.74 133.17H607.27L678.62 2.18H728.66L800 133.18H753.31M677.5 81.91H727.55L702.52 34.48 677.5 81.91">
+  </path>
+</svg>
+        </a>
+                              </div>
+      <div class="nc-7 main-navigation">
+                  
+        
+    
+    <ul class="level-0">
+                        
+          
+          <li class="level-0 dropdown-menu">
+                                                          <a href="/networks/insights/" data-linktype="header" aria-haspopup="true" aria-expanded="false" data-drupal-link-system-path="node/92841">Insights</a>
+                                          
+                          
+              
+                              <div class="dropdown-submenus-wrapper">
+                        
+    <ul class="dropdown-submenus" role="group">
+          <li class="dropdown-submenu-wrapper">
+        <ul class="dropdown-submenu" data-type="column">
+                                    <li class="dropdown-submenu-item"><a href="/networks/insights/business/" data-linktype="header" data-drupal-link-system-path="node/96356">Business</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/insights/society/" data-linktype="header" data-drupal-link-system-path="node/96966">Society</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/insights/technology/" data-linktype="header" data-drupal-link-system-path="node/96791">Technology</a></li>
+                                                                          </ul>
+      </li>
+      </ul>
+
+        
+      <div class="dropdown-submenu-footer">
+      <a href="/networks/insights/" class="btn btn-transparent-blue" data-linktype="header" data-drupal-link-system-path="node/92841">Insights</a>
+    </div>
+  
+                </div>
+                                    </li>
+                                
+          
+          <li class="level-0 dropdown-menu">
+                                                          <a href="/networks/industries/" data-linktype="header" aria-haspopup="true" aria-expanded="false" data-drupal-link-system-path="node/62121">Industries</a>
+                                          
+                          
+              
+                              <div class="dropdown-submenus-wrapper">
+                        
+    <ul class="dropdown-submenus" role="group">
+          <li class="dropdown-submenu-wrapper">
+        <ul class="dropdown-submenu" data-type="column">
+                                    <li class="dropdown-submenu-item"><a href="/networks/industries/energy-and-resources/" data-linktype="header" data-drupal-link-system-path="node/12016">Energy and resources</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/industries/manufacturing-supply-chain-and-logistics/" data-linktype="header" data-drupal-link-system-path="node/96211">Manufacturing, supply chain and logistics</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/industries/public-sector/" data-linktype="header" data-drupal-link-system-path="node/12091">Public sector</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/industries/transportation/" data-linktype="header" data-drupal-link-system-path="node/12036">Transportation</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/industries/other-industries/" data-linktype="header" data-drupal-link-system-path="node/11891">Other industries</a></li>
+                              </ul>
+      </li>
+          <li class="dropdown-submenu-wrapper">
+        <ul class="dropdown-submenu" data-type="column">
+                                    <li class="dropdown-submenu-item"><a href="/networks/solutions/subsea-terrestrial-networks/" data-linktype="header" data-drupal-link-system-path="node/80056">Nokia Subsea</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/networking-at-webscale/" data-linktype="header" data-drupal-link-system-path="node/61156">Networking at Webscale</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/cable-operators/" data-linktype="header" data-drupal-link-system-path="node/72951">Solutions for cable operators</a></li>
+                                                                          </ul>
+      </li>
+      </ul>
+
+        
+      <div class="dropdown-submenu-footer">
+      <a href="/networks/industries/" class="btn btn-transparent-blue" data-linktype="header" data-drupal-link-system-path="node/62121">Industries</a>
+    </div>
+  
+                </div>
+                                    </li>
+                                
+          
+          <li class="level-0 dropdown-menu">
+                                                          <a href="/networks/products/" title="Products and solutions by category" data-linktype="header" aria-haspopup="true" aria-expanded="false" data-drupal-link-system-path="node/9736">Products</a>
+                                          
+                          
+              
+                              <div class="dropdown-submenus-wrapper">
+                        
+    <ul class="dropdown-submenus" role="group">
+          <li class="dropdown-submenu-wrapper">
+        <ul class="dropdown-submenu" data-type="column">
+                                    <li class="dropdown-submenu-item"><a href="/networks/bss-oss/" data-linktype="header" data-drupal-link-system-path="node/107751">BSS/OSS</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/core-networks/" data-linktype="header" data-drupal-link-system-path="node/107186">Core networks</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/data-center/" data-linktype="header" data-drupal-link-system-path="node/113616">Data center</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/fixed-networks/" data-linktype="header" data-drupal-link-system-path="node/107281">Fixed networks</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/internet-of-things/" data-linktype="header" data-drupal-link-system-path="node/113916">Internet of Things (IoT)</a></li>
+                              </ul>
+      </li>
+          <li class="dropdown-submenu-wrapper">
+        <ul class="dropdown-submenu" data-type="column">
+                                    <li class="dropdown-submenu-item"><a href="/networks/ip-networks/" data-linktype="header" data-drupal-link-system-path="node/106841">IP networks</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/mobile-networks/" data-linktype="header" data-drupal-link-system-path="node/106506">Mobile networks</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/optical-networks/" title="Optical networks" data-linktype="header" data-drupal-link-system-path="node/106851">Optical networks</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/private-networks/" data-linktype="header" data-drupal-link-system-path="node/116521">Private Networks</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/security-portfolio/" data-linktype="header" data-drupal-link-system-path="node/107806">Security</a></li>
+                              </ul>
+      </li>
+          <li class="dropdown-submenu-wrapper">
+        <ul class="dropdown-submenu" data-type="column">
+                                    <li class="dropdown-submenu-item"><a href="/networks/solutions-for-industry/" data-linktype="header" data-drupal-link-system-path="node/107851">Solutions for industry</a></li>
+                                                                                                                      </ul>
+      </li>
+      </ul>
+
+        
+      <div class="dropdown-submenu-footer">
+      <a href="/networks/products/" title="Products and solutions by category" class="btn btn-transparent-blue" data-linktype="header" data-drupal-link-system-path="node/9736">Products</a>
+    </div>
+  
+                </div>
+                                    </li>
+                                
+          
+          <li class="level-0 dropdown-menu">
+                                                          <a href="/networks/services/" data-linktype="header" aria-haspopup="true" aria-expanded="false" data-drupal-link-system-path="node/16336">Services</a>
+                                          
+                          
+              
+                              <div class="dropdown-submenus-wrapper">
+                        
+    <ul class="dropdown-submenus" role="group">
+          <li class="dropdown-submenu-wrapper">
+        <ul class="dropdown-submenu" data-type="column">
+                                    <li class="dropdown-submenu-item"><a href="/networks/services/cloud-network-services/" data-linktype="header" data-drupal-link-system-path="node/95161">Cloud network services</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/services/digital-deployment-services/" title="Get ahead: Go digital with 5G deployment" data-linktype="header" data-drupal-link-system-path="node/71641">Digital Deployment Services</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/services/iot-services/" data-linktype="header" data-drupal-link-system-path="node/12181">IoT services</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/services/managed-operations/" data-linktype="header" data-drupal-link-system-path="node/12211">Managed operations</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/services/services-for-industry-and-the-public-sector/" data-linktype="header" data-drupal-link-system-path="node/15806">Services for industry and public sector</a></li>
+                              </ul>
+      </li>
+          <li class="dropdown-submenu-wrapper">
+        <ul class="dropdown-submenu" data-type="column">
+                                    <li class="dropdown-submenu-item"><a href="/networks/services/technical-support-services/" data-linktype="header" data-drupal-link-system-path="node/60421">Technical support services</a></li>
+                                                                                                                      </ul>
+      </li>
+      </ul>
+
+        
+      <div class="dropdown-submenu-footer">
+      <a href="/networks/services/" class="btn btn-transparent-blue" data-linktype="header" data-drupal-link-system-path="node/16336">Services</a>
+    </div>
+  
+                </div>
+                                    </li>
+                                
+          
+          <li class="level-0 dropdown-menu">
+                                                          <a href="/networks/training/" data-linktype="header" aria-haspopup="true" aria-expanded="false" data-drupal-link-system-path="node/3651">Training</a>
+                                          
+                          
+              
+                              <div class="dropdown-submenus-wrapper">
+                        
+    <ul class="dropdown-submenus" role="group">
+          <li class="dropdown-submenu-wrapper">
+        <ul class="dropdown-submenu" data-type="column">
+                                    <li class="dropdown-submenu-item"><a href="https://learningstore.nokia.com/eduhome.html" data-linktype="header">Learning Store</a></li>
+                                                <li class="dropdown-submenu-item"><a href="https://nokialearn.csod.com/client/nokialearn/default.aspx" data-linktype="header">Learning &amp; Development Hub</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/training/5g/" data-linktype="header" data-drupal-link-system-path="node/91906">5G Certification</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/training/dcf/" data-linktype="header" data-drupal-link-system-path="node/96881">Data Center Fabric Certification Program</a></li>
+                                                <li class="dropdown-submenu-item"><a href="https://learningstore.nokia.com/customer/item/n.1484751272477" data-linktype="header">Fixed Networks Certification</a></li>
+                              </ul>
+      </li>
+          <li class="dropdown-submenu-wrapper">
+        <ul class="dropdown-submenu" data-type="column">
+                                    <li class="dropdown-submenu-item"><a href="https://www.nuagenetworks.net/learning" data-linktype="header">Nuage Networks Virtuoso Certification</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/training/onc/" data-linktype="header" data-drupal-link-system-path="node/94736">Optical Network Certification (ONC)</a></li>
+                                                <li class="dropdown-submenu-item"><a href="/networks/training/src/" data-linktype="header" data-drupal-link-system-path="node/98146">Service Routing Certification (SRC)</a></li>
+                                                                          </ul>
+      </li>
+      </ul>
+
+        
+      <div class="dropdown-submenu-footer">
+      <a href="/networks/training/" class="btn btn-transparent-blue" data-linktype="header" data-drupal-link-system-path="node/3651">Training</a>
+    </div>
+  
+                </div>
+                                    </li>
+                                </ul>
+  
+
+
+
+              </div>
+      <ul class="nc-3 level-icons">
+                              <li>
+              
+		<div class="icon-wrapper language-icon-wrapper">
+	<a href="/language-selector/" class="toggle-globe language-selection-toggle visible-desktop visible-tablet " role="button" aria-label="Language menu English" aria-expanded="false">
+		<div class="globe"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <path fill="#094391" d="M19.958 9.474a9.92 9.92 0 0 0-.924-3.685 10.154 10.154 0 0 0-.568-1.052A9.932 9.932 0 0 0 10 0C6.429 0 3.277 1.895 1.513 4.737c-.21.337-.4.695-.568 1.052a10.343 10.343 0 0 0-.924 3.685C.021 9.642 0 9.832 0 10c0 .168 0 .358.021.526.084 1.306.4 2.548.924 3.685.168.357.358.715.568 1.052C3.277 18.105 6.429 20 10 20c3.571 0 6.723-1.895 8.487-4.737.21-.337.4-.695.568-1.052.525-1.137.84-2.38.924-3.685 0-.168.021-.358.021-.526 0-.168-.021-.358-.042-.526zm-17.164 5.79h2.731c.42 1.304.988 2.42 1.68 3.22a8.758 8.758 0 0 1-4.41-3.22zM17.206 4.736h-2.731c-.42-1.305-.988-2.421-1.68-3.221a8.758 8.758 0 0 1 4.41 3.22zm-3.004 4.737h-3.677V5.789h3.151c.295 1.116.484 2.358.526 3.685zm-.505 4.737h-3.15v-3.685h3.655a17.925 17.925 0 0 1-.505 3.685zM5.82 10.526h3.656v3.685H6.324a15.446 15.446 0 0 1-.505-3.685zm.484-4.737h3.15v3.685H5.82c.021-1.327.21-2.569.484-3.685zm7.058-1.052h-2.836v-3.6c1.156.316 2.164 1.684 2.836 3.6zm-3.886-3.6v3.6H6.639c.672-1.916 1.68-3.284 2.836-3.6zM6.639 15.263h2.836v3.6c-1.156-.316-2.164-1.684-2.836-3.6zm3.886 3.6v-3.6h2.836c-.672 1.916-1.68 3.284-2.836 3.6zM7.185 1.516c-.693.82-1.26 1.916-1.68 3.22H2.772a8.939 8.939 0 0 1 4.412-3.22zM5.21 5.789a19.602 19.602 0 0 0-.462 3.685H1.092a9.095 9.095 0 0 1 1.03-3.685H5.21zm-.462 4.737c.042 1.327.189 2.548.462 3.685H2.122a9.095 9.095 0 0 1-1.03-3.685h3.656zm8.067 7.958c.693-.82 1.26-1.916 1.68-3.22h2.732a8.939 8.939 0 0 1-4.412 3.22zm1.975-4.273a16.66 16.66 0 0 0 .462-3.685h3.656a9.095 9.095 0 0 1-1.03 3.685H14.79zm.462-4.737a19.602 19.602 0 0 0-.462-3.685h3.088a8.776 8.776 0 0 1 1.03 3.685h-3.656z"/>
+</svg>
+</div>
+		<div class="close"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20" focusable="false">
+  <line x1="0" y1="0" x2="20" y2="20" style="stroke-width:2" stroke="#d4d4d4" />
+  <line x1="20" y1="0" x2="0" y2="20" style="stroke-width:2" stroke="#d4d4d4" />
+</svg>
+</div>
+	</a>
+</div>
+            </li>
+                                    <li>
+            
+<div class="icon-wrapper">
+	<a href="#" class="search-toggle" role="button" aria-label="site search">
+		<div class="search-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <g fill="none" fill-rule="evenodd" stroke="#094391" stroke-width="2" transform="translate(1 1)">
+        <path d="M19.412 19.412l-6.471-6.471"/>
+        <circle cx="7.647" cy="7.647" r="7.647"/>
+    </g>
+</svg>
+		</div>
+		<div class="close">
+			<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20" focusable="false">
+  <line x1="0" y1="0" x2="20" y2="20" style="stroke-width:2" stroke="#d4d4d4" />
+  <line x1="20" y1="0" x2="0" y2="20" style="stroke-width:2" stroke="#d4d4d4" />
+</svg>
+		</div>
+	</a>
+</div>
+
+	<div class="search-wrapper">
+		<div>
+  
+    
+      <form class="block-nokia-popup-search-form og-20 og-center global-search nr" role="search" data-drupal-selector="block-nokia-popup-search-form" action="/networks/" method="post" id="block-nokia-popup-search-form" accept-charset="UTF-8">
+  <input autocomplete="off" class="voice-input-popup search-field form-text required" placeholder="Search" aria-label="site search" data-drupal-selector="edit-query" type="text" id="edit-query" name="query" value="" size="10" maxlength="128" required="required" aria-required="true"/>
+
+<input data-drupal-selector="edit-query-language" type="hidden" name="query_language" value="en"/>
+<div class="nokia-search-speech-icon">
+    <div class="nokia-search-speech-icon__button">
+        <a data-target=".voice-input-popup" data-language="en" class="speech-button-icon speech-button speech-button-popup">Speak now</a>
+    </div>
+    <div class="nokia-search-speech-icon__background-1 nokia-search-speech-icon__background"></div>
+    <div class="nokia-search-speech-icon__background-2 nokia-search-speech-icon__background"></div>
+</div>
+<input class="submit-btn button js-form-submit form-submit btn link" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Search" />
+<input autocomplete="off" data-drupal-selector="form-hrozhhkswbmuerjnacy3idt-p2yl5npoil1ntssmhm" type="hidden" name="form_build_id" value="form-_hroZHhkswbMUErjNaCY3iDT-P2YL5nPOil1nTSSMHM"/>
+<input data-drupal-selector="edit-block-nokia-popup-search-form" type="hidden" name="form_id" value="block_nokia_popup_search_form"/>
+
+</form>
+
+  </div>
+
+	</div>
+          </li>
+                <li>
+          <a href="#" class="toggle-x hidden icon-close">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20" focusable="false">
+  <line x1="0" y1="0" x2="20" y2="20" style="stroke-width:2" stroke="#d4d4d4" />
+  <line x1="20" y1="0" x2="0" y2="20" style="stroke-width:2" stroke="#d4d4d4" />
+</svg>
+          </a>
+          <a href="#" class="toggle-hamburger icon-hamburger" role="button" aria-label="Navigation menu">
+            <span class="toggle-hamburger-mobile"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" viewBox="0 0 20 14" focusable="false">
+  <g class="ic--fill" fill="#124191" fill-rule="evenodd">
+    <path d="M0 12h20v2H0zM0 6h20v2H0zM0 0h20v2H0z"/>
+  </g>
+</svg>
+</span>
+                          <span class="toggle-hamburger-desktop"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="16" viewBox="0 0 22 16" focusable="false">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#094391" d="M1 14h20v2H1zM1 8h20v2H1z"/>
+        <path stroke="#094391" stroke-width="2" d="M1 4l10-3 10 3"/>
+    </g>
+</svg>
+ <span>Menu</span></span>
+                      </a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>
+
+    <div class="breadcrumb">
+  <div class="container">
+    <div class="nr">
+      <div class="nc-12">
+        <ul>
+                                                    <li><a href="/">Home</a></li>
+                                                                              <li>Networks and industry solutions</li>
+                                            </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+        
+<div  class="mobile-nav-wrapper">
+  <div class="mobile-nav-inner hidden">
+    <div class="mobile-nav open-child">
+      <span class="mobile-nav-close visible-desktop" role="button"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20" focusable="false">
+  <line x1="0" y1="0" x2="20" y2="20" style="stroke-width:2" stroke="#d4d4d4" />
+  <line x1="20" y1="0" x2="0" y2="20" style="stroke-width:2" stroke="#d4d4d4" />
+</svg>
+<span class="visible-screen-readers">Close Menu</span></span>
+      <div class="mobile-nav-links">
+        
+        
+    
+    <ul class="level-1 open-level-3">
+      
+                    
+      
+                        
+                                                                                
+          <li class="level-1 has-children open">
+            <span data-linktype="header">For business</span>
+
+                                                        
+                      
+    
+    <ul class="level-2">
+              <li class="level-2 back"><a href="#">Nokia menu</a></li>
+      
+                    
+              <li class="level-2 lander">
+          <span data-linktype="header">For business</span>
+        </li>
+      
+                        
+                                                                                
+          <li class="level-2 has-children open">
+            <a href="/networks/" data-linktype="header" data-drupal-link-system-path="node/113061" class="is-active">Networks and industry solutions</a>
+
+                          
+                      
+    
+    <ul class="level-3">
+              <li class="level-3 back"><a href="#">For business</a></li>
+      
+                    
+              <li class="level-3 lander">
+          <a href="/networks/" data-linktype="header" data-drupal-link-system-path="node/113061" class="is-active">Networks and industry solutions</a>
+        </li>
+      
+                        
+                                                      
+          <li class="level-3 has-children">
+            <a href="/networks/insights/" data-linktype="header" data-drupal-link-system-path="node/92841">Insights</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Networks and industry solutions</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/networks/insights/" data-linktype="header" data-drupal-link-system-path="node/92841">Insights</a>
+        </li>
+      
+                        
+                    
+          <li class="level-4">
+            <a href="/networks/insights/business/" data-linktype="header" data-drupal-link-system-path="node/96356">Business</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/insights/society/" data-linktype="header" data-drupal-link-system-path="node/96966">Society</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/insights/technology/" data-linktype="header" data-drupal-link-system-path="node/96791">Technology</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-3 has-children">
+            <a href="/networks/industries/" data-linktype="header" data-drupal-link-system-path="node/62121">Industries</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Networks and industry solutions</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/networks/industries/" data-linktype="header" data-drupal-link-system-path="node/62121">Industries</a>
+        </li>
+      
+                        
+                                                      
+          <li class="level-4 has-children">
+            <a href="/networks/industries/energy-and-resources/" data-linktype="header" data-drupal-link-system-path="node/12016">Energy and resources</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/networks/industries/energy-and-resources/" data-linktype="header" data-drupal-link-system-path="node/12016">Energy and resources</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/networks/industries/mining/" data-linktype="header" data-drupal-link-system-path="node/11996">Mining</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/networks/industries/oil-and-gas/" data-linktype="header" data-drupal-link-system-path="node/11976">Oil and gas</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/networks/industries/power-utilities/" data-linktype="header" data-drupal-link-system-path="node/12011">Power utilities</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-4 has-children">
+            <a href="/networks/industries/manufacturing-supply-chain-and-logistics/" data-linktype="header" data-drupal-link-system-path="node/96211">Manufacturing, supply chain and logistics</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/networks/industries/manufacturing-supply-chain-and-logistics/" data-linktype="header" data-drupal-link-system-path="node/96211">Manufacturing, supply chain and logistics</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/networks/industries/manufacturing/" data-linktype="header" data-drupal-link-system-path="node/11986">Manufacturing</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-4 has-children">
+            <a href="/networks/industries/public-sector/" data-linktype="header" data-drupal-link-system-path="node/12091">Public sector</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/networks/industries/public-sector/" data-linktype="header" data-drupal-link-system-path="node/12091">Public sector</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/networks/industries/federal-government/" data-linktype="header" data-drupal-link-system-path="node/82131">Federal government</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-5 has-children">
+            <a href="/networks/industries/public-safety/" data-linktype="header" data-drupal-link-system-path="node/12081">Public safety</a>
+
+                          
+                      
+    
+    <ul class="level-6">
+      
+                    
+              <li class="level-6 lander">
+          <a href="/networks/industries/public-safety/" data-linktype="header" data-drupal-link-system-path="node/12081">Public safety</a>
+        </li>
+      
+                        
+                    
+          <li class="level-6">
+            <a href="/networks/industries/public-safety/us-backhaul/" data-linktype="header" data-drupal-link-system-path="node/107371">US backhaul</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/networks/industries/smart-city/" data-linktype="header" data-drupal-link-system-path="node/12086">Smart city</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/networks/industries/education/" data-linktype="header" data-drupal-link-system-path="node/106146">Education</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/networks/industries/government-broadband-plans/" data-linktype="header" data-drupal-link-system-path="node/12076">Government broadband plans</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/networks/industries/defense/" data-linktype="header" data-drupal-link-system-path="node/12066">Defense</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-4 has-children">
+            <a href="/networks/industries/transportation/" data-linktype="header" data-drupal-link-system-path="node/12036">Transportation</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/networks/industries/transportation/" data-linktype="header" data-drupal-link-system-path="node/12036">Transportation</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/networks/industries/aviation/" data-linktype="header" data-drupal-link-system-path="node/12021">Aviation</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/networks/industries/highways/" data-linktype="header" data-drupal-link-system-path="node/12026">Highways</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/networks/industries/railways/" data-linktype="header" data-drupal-link-system-path="node/12031">Railways</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-4 has-children">
+            <a href="/networks/industries/other-industries/" data-linktype="header" data-drupal-link-system-path="node/11891">Other industries</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/networks/industries/other-industries/" data-linktype="header" data-drupal-link-system-path="node/11891">Other industries</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/networks/industries/automotive/" data-linktype="header" data-drupal-link-system-path="node/11966">Automotive</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/networks/industries/financial-services/" data-linktype="header" data-drupal-link-system-path="node/11971">Financial services</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/networks/industries/healthcare/" data-linktype="header" data-drupal-link-system-path="node/12001">Healthcare</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/networks/industries/retail/" data-linktype="header" data-drupal-link-system-path="node/11991">Retail</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/solutions/subsea-terrestrial-networks/" data-linktype="header" data-drupal-link-system-path="node/80056">Nokia Subsea</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/networking-at-webscale/" data-linktype="header" data-drupal-link-system-path="node/61156">Networking at Webscale</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/cable-operators/" data-linktype="header" data-drupal-link-system-path="node/72951">Solutions for cable operators</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-3 has-children">
+            <a href="/networks/products/" title="Products and solutions by category" data-linktype="header" data-drupal-link-system-path="node/9736">Products</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Networks and industry solutions</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/networks/products/" title="Products and solutions by category" data-linktype="header" data-drupal-link-system-path="node/9736">Products</a>
+        </li>
+      
+                        
+                                                      
+          <li class="level-4 has-children">
+            <a href="/networks/bss-oss/" data-linktype="header" data-drupal-link-system-path="node/107751">BSS/OSS</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/networks/bss-oss/" data-linktype="header" data-drupal-link-system-path="node/107751">BSS/OSS</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/networks/products/nokia-assurance-center/" data-linktype="header" data-drupal-link-system-path="node/78061">Nokia Assurance Center</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/core-networks/" data-linktype="header" data-drupal-link-system-path="node/107186">Core networks</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/data-center/" data-linktype="header" data-drupal-link-system-path="node/113616">Data center</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-4 has-children">
+            <a href="/networks/fixed-networks/" data-linktype="header" data-drupal-link-system-path="node/107281">Fixed networks</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/networks/fixed-networks/" data-linktype="header" data-drupal-link-system-path="node/107281">Fixed networks</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/networks/services/fixed-networks-services/" data-linktype="header" data-drupal-link-system-path="node/71051">Fixed networks services</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/internet-of-things/" data-linktype="header" data-drupal-link-system-path="node/113916">Internet of Things (IoT)</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/ip-networks/" data-linktype="header" data-drupal-link-system-path="node/106841">IP networks</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-4 has-children">
+            <a href="/networks/mobile-networks/" data-linktype="header" data-drupal-link-system-path="node/106506">Mobile networks</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/networks/mobile-networks/" data-linktype="header" data-drupal-link-system-path="node/106506">Mobile networks</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/networks/mobile-networks/small-cells/" data-linktype="header" data-drupal-link-system-path="node/10251">Small cells</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-4 has-children">
+            <a href="/networks/optical-networks/" title="Optical networks" data-linktype="header" data-drupal-link-system-path="node/106851">Optical networks</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/networks/optical-networks/" title="Optical networks" data-linktype="header" data-drupal-link-system-path="node/106851">Optical networks</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/networks/optical-networks/blogs/" data-linktype="header" data-drupal-link-system-path="node/114011">Optical network blogs</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/private-networks/" data-linktype="header" data-drupal-link-system-path="node/116521">Private Networks</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-4 has-children">
+            <a href="/networks/security-portfolio/" data-linktype="header" data-drupal-link-system-path="node/107806">Security</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/networks/security-portfolio/" data-linktype="header" data-drupal-link-system-path="node/107806">Security</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/networks/solutions/netguard-xdr-security-operations/" data-linktype="header" data-drupal-link-system-path="node/12041">NetGuard XDR Security Operations</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/solutions-for-industry/" data-linktype="header" data-drupal-link-system-path="node/107851">Solutions for industry</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-3 has-children">
+            <a href="/networks/services/" data-linktype="header" data-drupal-link-system-path="node/16336">Services</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Networks and industry solutions</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/networks/services/" data-linktype="header" data-drupal-link-system-path="node/16336">Services</a>
+        </li>
+      
+                        
+                                                      
+          <li class="level-4 has-children">
+            <a href="/networks/services/cloud-network-services/" data-linktype="header" data-drupal-link-system-path="node/95161">Cloud network services</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/networks/services/cloud-network-services/" data-linktype="header" data-drupal-link-system-path="node/95161">Cloud network services</a>
+        </li>
+      
+                        
+                                                      
+          <li class="level-5 has-children">
+            <a href="/networks/services/cloud-network-services/cloud-consultancy/" data-linktype="header" data-drupal-link-system-path="node/98461">Cloud consultancy</a>
+
+                          
+                      
+    
+    <ul class="level-6">
+      
+                    
+              <li class="level-6 lander">
+          <a href="/networks/services/cloud-network-services/cloud-consultancy/" data-linktype="header" data-drupal-link-system-path="node/98461">Cloud consultancy</a>
+        </li>
+      
+                        
+                    
+          <li class="level-6">
+            <a href="/networks/services/cloud-network-services/cloud-consultancy/cybersecurity-consulting/" data-linktype="header" data-drupal-link-system-path="node/98591">Security consulting</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/services/digital-deployment-services/" title="Get ahead: Go digital with 5G deployment" data-linktype="header" data-drupal-link-system-path="node/71641">Digital Deployment Services</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/services/iot-services/" data-linktype="header" data-drupal-link-system-path="node/12181">IoT services</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/services/managed-operations/" data-linktype="header" data-drupal-link-system-path="node/12211">Managed operations</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/services/services-for-industry-and-the-public-sector/" data-linktype="header" data-drupal-link-system-path="node/15806">Services for industry and public sector</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/services/technical-support-services/" data-linktype="header" data-drupal-link-system-path="node/60421">Technical support services</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-3 has-children">
+            <a href="/networks/training/" data-linktype="header" data-drupal-link-system-path="node/3651">Training</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Networks and industry solutions</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/networks/training/" data-linktype="header" data-drupal-link-system-path="node/3651">Training</a>
+        </li>
+      
+                        
+                    
+          <li class="level-4">
+            <a href="https://learningstore.nokia.com/eduhome.html" data-linktype="header">Learning Store</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="https://nokialearn.csod.com/client/nokialearn/default.aspx" data-linktype="header">Learning &amp; Development Hub</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/training/5g/" data-linktype="header" data-drupal-link-system-path="node/91906">5G Certification</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/training/dcf/" data-linktype="header" data-drupal-link-system-path="node/96881">Data Center Fabric Certification Program</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="https://learningstore.nokia.com/customer/item/n.1484751272477" data-linktype="header">Fixed Networks Certification</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="https://www.nuagenetworks.net/learning" data-linktype="header">Nuage Networks Virtuoso Certification</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/training/onc/" data-linktype="header" data-drupal-link-system-path="node/94736">Optical Network Certification (ONC)</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/networks/training/src/" data-linktype="header" data-drupal-link-system-path="node/98146">Service Routing Certification (SRC)</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-2">
+            <a href="/networks/partners/" data-linktype="header" data-drupal-link-system-path="node/11856">Partners and ecosystems</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-2 has-children">
+            <a href="/licensing/" data-linktype="header" data-drupal-link-system-path="node/84061">Licensing opportunities</a>
+
+                          
+                      
+    
+    <ul class="level-3">
+              <li class="level-3 back"><a href="#">For business</a></li>
+      
+                    
+              <li class="level-3 lander">
+          <a href="/licensing/" data-linktype="header" data-drupal-link-system-path="node/84061">Licensing opportunities</a>
+        </li>
+      
+                        
+                                                      
+          <li class="level-3 has-children">
+            <a href="/licensing/brand/" data-linktype="header" data-drupal-link-system-path="node/71896">Brand licensing</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Licensing opportunities</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/licensing/brand/" data-linktype="header" data-drupal-link-system-path="node/71896">Brand licensing</a>
+        </li>
+      
+                        
+                    
+          <li class="level-4">
+            <a href="/licensing/brand/contact-us/" data-linktype="header" data-drupal-link-system-path="node/94661">Contact</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/licensing/innovations/" data-linktype="header" data-drupal-link-system-path="node/92436">Innovations gallery</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-3 has-children">
+            <a href="/licensing/patents/" data-linktype="header" data-drupal-link-system-path="node/83476">Patent licensing</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Licensing opportunities</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/licensing/patents/" data-linktype="header" data-drupal-link-system-path="node/83476">Patent licensing</a>
+        </li>
+      
+                        
+                    
+          <li class="level-4">
+            <a href="/licensing/patents/5g-standard/" data-linktype="header" data-drupal-link-system-path="node/92561">5G standard</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/licensing/patents/automotive/" data-linktype="header" data-drupal-link-system-path="node/92481">Automotive licensing program</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/licensing/patents/consumer-electronics/" data-linktype="header" data-drupal-link-system-path="node/92966">Consumer electronics licensing program</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/licensing/patents/IoT/" data-linktype="header" data-drupal-link-system-path="node/92456">IoT licensing program</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/licensing/patents/mobile-devices/" data-linktype="header" data-drupal-link-system-path="node/92486">Mobile devices licensing program</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/licensing/principles/" data-linktype="header" data-drupal-link-system-path="node/92881">SEP licensing principles</a>
+
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/licensing/technology/" data-linktype="header" data-drupal-link-system-path="node/92451">Technology licensing</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-1 has-children">
+            <a href="https://www.nokia.com/shop?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=header" data-linktype="header">For consumers</a>
+
+                                                        
+                      
+    
+    <ul class="level-2">
+              <li class="level-2 back"><a href="#">Nokia menu</a></li>
+      
+                    
+              <li class="level-2 lander">
+          <a href="https://www.nokia.com/shop?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=header" data-linktype="header">For consumers</a>
+        </li>
+      
+                        
+                    
+          <li class="level-2">
+            <a href="https://www.nokia.com/phones?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=header" data-linktype="header">Phones</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-2 has-children">
+            <a href="https://www.nokia.com/shop/discover-home-wifi?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=header" data-linktype="header">Home WiFi</a>
+
+                          
+                      
+    
+    <ul class="level-3">
+              <li class="level-3 back"><a href="#">For consumers</a></li>
+      
+                    
+              <li class="level-3 lander">
+          <a href="https://www.nokia.com/shop/discover-home-wifi?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=header" data-linktype="header">Home WiFi</a>
+        </li>
+      
+                        
+                    
+          <li class="level-3">
+            <a href="/wifi/legal/" data-linktype="header" data-drupal-link-system-path="node/74276">Legal</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-2">
+            <a href="https://www.nokia.com/shop/smart-tvs?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=header" data-linktype="header">Smart TVs</a>
+
+                      </li>
+                                
+                    
+          <li class="level-2">
+            <a href="https://www.nokia.com/shop/laptops?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=header" data-linktype="header">Laptops</a>
+
+                      </li>
+                                
+                    
+          <li class="level-2">
+            <a href="https://www.nokia.com/shop/streaming-devices?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=header" data-linktype="header">Streaming devices</a>
+
+                      </li>
+                                
+                    
+          <li class="level-2">
+            <a href="https://www.nokia.com/shop/headphones?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=header" data-linktype="header">Headphones</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-1 has-children">
+            <a href="/innovation/" data-linktype="header" data-drupal-link-system-path="node/12131">Innovation</a>
+
+                                                        
+                      
+    
+    <ul class="level-2">
+              <li class="level-2 back"><a href="#">Nokia menu</a></li>
+      
+                    
+              <li class="level-2 lander">
+          <a href="/innovation/" data-linktype="header" data-drupal-link-system-path="node/12131">Innovation</a>
+        </li>
+      
+                        
+                    
+          <li class="level-2">
+            <a href="https://inventwithnokia.nokia.com/" data-linktype="header">Innovation platform</a>
+
+                      </li>
+                                
+                    
+          <li class="level-2">
+            <a href="https://www.ngpcap.com/" data-linktype="header">NGP Capital</a>
+
+                      </li>
+                                
+                    
+          <li class="level-2">
+            <a href="https://www.bell-labs.com/" data-linktype="header">Nokia Bell Labs</a>
+
+                      </li>
+                                
+                    
+          <li class="level-2">
+            <a href="/innovation/standards-and-patents/" data-linktype="header" data-drupal-link-system-path="node/112666">Standards and patents</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-1 has-children">
+            <a href="/about-us/" data-linktype="header" data-drupal-link-system-path="node/60511">About us</a>
+
+                                                        
+                      
+    
+    <ul class="level-2">
+              <li class="level-2 back"><a href="#">Nokia menu</a></li>
+      
+                    
+              <li class="level-2 lander">
+          <a href="/about-us/" data-linktype="header" data-drupal-link-system-path="node/60511">About us</a>
+        </li>
+      
+                        
+                                                      
+          <li class="level-2 has-children">
+            <a href="/about-us/company/" data-linktype="header" data-drupal-link-system-path="node/97201">Company</a>
+
+                          
+                      
+    
+    <ul class="level-3">
+              <li class="level-3 back"><a href="#">About us</a></li>
+      
+                    
+              <li class="level-3 lander">
+          <a href="/about-us/company/" data-linktype="header" data-drupal-link-system-path="node/97201">Company</a>
+        </li>
+      
+                        
+                                                      
+          <li class="level-3 has-children">
+            <a href="/about-us/company/worldwide-presence/" data-linktype="header" data-drupal-link-system-path="node/82981">Worldwide presence</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Company</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/about-us/company/worldwide-presence/" data-linktype="header" data-drupal-link-system-path="node/82981">Worldwide presence</a>
+        </li>
+      
+                        
+                    
+          <li class="level-4">
+            <a href="/about-us/company/worldwide-presence/asia-pacific-and-japan/" data-linktype="header" data-drupal-link-system-path="node/60786">Asia Pacific and Japan</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/company/worldwide-presence/europe/" data-linktype="header" data-drupal-link-system-path="node/60806">Europe</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/company/worldwide-presence/greater-china/" data-linktype="header" data-drupal-link-system-path="node/60791">Greater China</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-4 has-children">
+            <a href="/about-us/company/worldwide-presence/india/" data-linktype="header" data-drupal-link-system-path="node/82941">India</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/about-us/company/worldwide-presence/india/" data-linktype="header" data-drupal-link-system-path="node/82941">India</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/about-us/company/worldwide-presence/india/mbit-index-2020/" data-linktype="header" data-drupal-link-system-path="node/81436">MBiT index 2020</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/about-us/company/worldwide-presence/india/mbit-index-2021/" data-linktype="header" data-drupal-link-system-path="node/99336">MBiT index 2021</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/about-us/company/worldwide-presence/india/make-in-india/" data-linktype="header" data-drupal-link-system-path="node/89491">Make in India</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/node/f6df7126-2746-4cc9-be7c-8a3433c82421" data-linktype="header">Make in India</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/company/worldwide-presence/latin-america/" data-linktype="header" data-drupal-link-system-path="node/60796">Latin America</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/company/worldwide-presence/middle-east-and-africa/" data-linktype="header" data-drupal-link-system-path="node/60801">Middle East and Africa</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-4 has-children">
+            <a href="/about-us/company/worldwide-presence/north-america/" data-linktype="header" data-drupal-link-system-path="node/60811">North America</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/about-us/company/worldwide-presence/north-america/" data-linktype="header" data-drupal-link-system-path="node/60811">North America</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/about-us/company/worldwide-presence/north-america/north-america-government-relations-and-public-affairs/" data-linktype="header" data-drupal-link-system-path="node/88571">North America government relations and public affairs</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/company/nokias-strategy-2021/" data-linktype="header" data-drupal-link-system-path="node/96716">Nokia&#039;s strategy</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-3 has-children">
+            <a href="/about-us/company/leadership-and-governance/" data-linktype="header" data-drupal-link-system-path="node/3266">Leadership and governance</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Company</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/about-us/company/leadership-and-governance/" data-linktype="header" data-drupal-link-system-path="node/3266">Leadership and governance</a>
+        </li>
+      
+                        
+                    
+          <li class="level-4">
+            <a href="/about-us/company/leadership-and-governance/board-of-directors/" data-linktype="header" data-drupal-link-system-path="node/11166">Board of Directors</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/company/our-history/" data-linktype="header" data-drupal-link-system-path="node/11551">Our history</a>
+
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/company/achievements/" data-linktype="header" data-drupal-link-system-path="node/11536">Achievements</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-3 has-children">
+            <a href="/about-us/company/government-relations/" data-linktype="header" data-drupal-link-system-path="node/88821">Government relations</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Company</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/about-us/company/government-relations/" data-linktype="header" data-drupal-link-system-path="node/88821">Government relations</a>
+        </li>
+      
+                        
+                    
+          <li class="level-4">
+            <a href="/about-us/company/government-relations/spectrum-policy/" data-linktype="header" data-drupal-link-system-path="node/90141">Spectrum policy</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-2 has-children">
+            <a href="/about-us/newsroom/" data-linktype="header" data-drupal-link-system-path="node/21886">Newsroom</a>
+
+                          
+                      
+    
+    <ul class="level-3">
+              <li class="level-3 back"><a href="#">About us</a></li>
+      
+                    
+              <li class="level-3 lander">
+          <a href="/about-us/newsroom/" data-linktype="header" data-drupal-link-system-path="node/21886">Newsroom</a>
+        </li>
+      
+                        
+                                                      
+          <li class="level-3 has-children">
+            <a href="/about-us/newsroom/press-and-stock-exchange-releases/" data-linktype="header" data-drupal-link-system-path="node/21891">News releases</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Newsroom</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/about-us/newsroom/press-and-stock-exchange-releases/" data-linktype="header" data-drupal-link-system-path="node/21891">News releases</a>
+        </li>
+      
+                        
+                    
+          <li class="level-4">
+            <a href="/about-us/newsroom/news-releases/managers-transactions/" data-linktype="header" data-drupal-link-system-path="node/11806">Managers’ transactions</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-4 has-children">
+            <a href="/about-us/newsroom/news-releases/partner-releases/" data-linktype="header" data-drupal-link-system-path="node/11731">Partner releases</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/about-us/newsroom/news-releases/partner-releases/" data-linktype="header" data-drupal-link-system-path="node/11731">Partner releases</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/node/971a0894-3038-4be4-9105-07f8312c9b91" data-linktype="header">Airtel and Nokia to collaborate on Industry 4.0 applications for enterprises</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/node/a070f6b1-4701-470f-84f7-ed3979d19209" data-linktype="header">New consortium to develop a 5G and beyond strategic roadmap for future  European connectivity systems and components</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/newsroom/statements/" data-linktype="header" data-drupal-link-system-path="node/11696">Statements</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-3 has-children">
+            <a href="/about-us/newsroom/events-calendar/" data-linktype="header" data-drupal-link-system-path="node/11811">Events calendar</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Newsroom</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/about-us/newsroom/events-calendar/" data-linktype="header" data-drupal-link-system-path="node/11811">Events calendar</a>
+        </li>
+      
+                        
+                                                      
+          <li class="level-4 has-children">
+            <a href="/about-us/newsroom/events-calendar/mwc-barcelona-2019/" data-linktype="header" data-drupal-link-system-path="node/61511">MWC Barcelona 2019</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/about-us/newsroom/events-calendar/mwc-barcelona-2019/" data-linktype="header" data-drupal-link-system-path="node/61511">MWC Barcelona 2019</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/about-us/newsroom/events-calendar/mwc-barcelona-2019/connected-cities/" data-linktype="header" data-drupal-link-system-path="node/63051">Connected cities</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/about-us/newsroom/events-calendar/mwc-barcelona-2019/connected-consumers/" data-linktype="header" data-drupal-link-system-path="node/63041">Connected consumers</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/about-us/newsroom/events-calendar/mwc-barcelona-2019/connected-industries/" data-linktype="header" data-drupal-link-system-path="node/63036">Connected industries</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/about-us/newsroom/events-calendar/mwc-barcelona-2019/how-to-find-us/" data-linktype="header" data-drupal-link-system-path="node/64566">How to find us</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/about-us/newsroom/events-calendar/mwc-barcelona-2019/our-speakers-2019/" data-linktype="header" data-drupal-link-system-path="node/63701">Our speakers 2019</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/about-us/newsroom/events-calendar/mwc-barcelona-2019/press-and-analyst-info/" data-linktype="header" data-drupal-link-system-path="node/64561">Press and analyst info</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/node/a31fd943-d26c-46c3-a6f8-120f0c8ccef4" data-linktype="header">Speakers</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-4 has-children">
+            <a href="/about-us/newsroom/events-calendar/webinars/" data-linktype="header" data-drupal-link-system-path="node/72591">Webinars</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/about-us/newsroom/events-calendar/webinars/" data-linktype="header" data-drupal-link-system-path="node/72591">Webinars</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/about-us/news-and-events/events-calendar/webinars/5g-techritory/" data-linktype="header" data-drupal-link-system-path="node/95506">5G Techritory</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-4 has-children">
+            <a href="/about-us/investors/investor-relations-events/" data-linktype="header" data-drupal-link-system-path="node/72671">Investor relations events</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/about-us/investors/investor-relations-events/" data-linktype="header" data-drupal-link-system-path="node/72671">Investor relations events</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/about-us/news-and-events/events-calendar/investor-relations-events/capital-markets-day/" data-linktype="header" data-drupal-link-system-path="node/99656">Capital Markets Day</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/newsroom/articles/" data-linktype="header" data-drupal-link-system-path="node/96176">Tech explained</a>
+
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/newsroom/social-media/" data-linktype="header" data-drupal-link-system-path="node/15471">Social media</a>
+
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="https://www.nokia.com/blog/" data-linktype="header">Nokia blog</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-3 has-children">
+            <a href="/about-us/newsroom/media-resources/" data-linktype="header" data-drupal-link-system-path="node/17926">Media resources</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Newsroom</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/about-us/newsroom/media-resources/" data-linktype="header" data-drupal-link-system-path="node/17926">Media resources</a>
+        </li>
+      
+                        
+                    
+          <li class="level-4">
+            <a href="/about-us/newsroom/media-resources/media-contacts/" data-linktype="header" data-drupal-link-system-path="node/16706">Media contacts</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/newsroom/media-resources/media-library/" data-linktype="header" data-drupal-link-system-path="node/60476">Media library</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-2 has-children">
+            <a href="/about-us/investors/" data-linktype="header" data-drupal-link-system-path="node/60716">Investors</a>
+
+                          
+                      
+    
+    <ul class="level-3">
+              <li class="level-3 back"><a href="#">About us</a></li>
+      
+                    
+              <li class="level-3 lander">
+          <a href="/about-us/investors/" data-linktype="header" data-drupal-link-system-path="node/60716">Investors</a>
+        </li>
+      
+                        
+                                                      
+          <li class="level-3 has-children">
+            <a href="/about-us/investors/stock-information/" data-linktype="header" data-drupal-link-system-path="node/2716">Stock information</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Investors</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/about-us/investors/stock-information/" data-linktype="header" data-drupal-link-system-path="node/2716">Stock information</a>
+        </li>
+      
+                        
+                    
+          <li class="level-4">
+            <a href="/about-us/investors/stock-information/management-shareholding/" data-linktype="header" data-drupal-link-system-path="node/94901">Management shareholding</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/investors/stock-information/biggest-shareholders/" data-linktype="header" data-drupal-link-system-path="node/2746">Biggest shareholders</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/investors/stock-information/dividend/" data-linktype="header" data-drupal-link-system-path="node/2751">Dividend</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/investors/stock-information/number-of-shares/" data-linktype="header" data-drupal-link-system-path="node/2981">Number of shares</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/investors/stock-information/split-history/" data-linktype="header" data-drupal-link-system-path="node/2986">Split history</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/investors/stock-information/stock-tools/" data-linktype="header" data-drupal-link-system-path="node/2991">Stock tools</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/investors/stock-information/share-repurchases/" data-linktype="header" data-drupal-link-system-path="node/2996">Share repurchases</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-3 has-children">
+            <a href="/about-us/investors/results-reports/" data-linktype="header" data-drupal-link-system-path="node/11276">Results and reports</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Investors</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/about-us/investors/results-reports/" data-linktype="header" data-drupal-link-system-path="node/11276">Results and reports</a>
+        </li>
+      
+                        
+                    
+          <li class="level-4">
+            <a href="/about-us/investors/results-and-reports/amortization-of-acquired-intangible-assets/" data-linktype="header" data-drupal-link-system-path="node/96841">Amortization of acquired intagible assets</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/investors/results-and-reports/order-financial-reports/" data-linktype="header" data-drupal-link-system-path="node/2711">Order financial reports</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/investors/sec-filings/" data-linktype="header" data-drupal-link-system-path="node/2701">SEC Filings</a>
+
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/investors/debt-information/" data-linktype="header" data-drupal-link-system-path="node/3256">Debt information</a>
+
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/investors/analyst-coverage/" data-linktype="header" data-drupal-link-system-path="node/83496">Analyst coverage</a>
+
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/investors/acquisitions-divestments/" data-linktype="header" data-drupal-link-system-path="node/3261">Acquisitions &amp; divestments</a>
+
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/investors/investor-relations-events/" data-linktype="header" data-drupal-link-system-path="node/72671">IR events</a>
+
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/investors/investor-relations-team/" data-linktype="header" data-drupal-link-system-path="node/83491">Investor relations team</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-2 has-children">
+            <a href="/about-us/sustainability/" data-linktype="header" data-drupal-link-system-path="node/73326">Sustainability</a>
+
+                          
+                      
+    
+    <ul class="level-3">
+              <li class="level-3 back"><a href="#">About us</a></li>
+      
+                    
+              <li class="level-3 lander">
+          <a href="/about-us/sustainability/" data-linktype="header" data-drupal-link-system-path="node/73326">Sustainability</a>
+        </li>
+      
+                        
+                                                      
+          <li class="level-3 has-children">
+            <a href="/about-us/sustainability/our-approach/" data-linktype="header" data-drupal-link-system-path="node/101996">Our approach</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Sustainability</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/about-us/sustainability/our-approach/" data-linktype="header" data-drupal-link-system-path="node/101996">Our approach</a>
+        </li>
+      
+                        
+                    
+          <li class="level-4">
+            <a href="/about-us/sustainability/our-approach/nokia-and-the-united-nations-sustainable-development-goals/" data-linktype="header" data-drupal-link-system-path="node/102041">Nokia and the United Nations Sustainable Development Goals</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/sustainability/improving-lives/" data-linktype="header" data-drupal-link-system-path="node/102091">Improving lives</a>
+
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/sustainability/climate/" data-linktype="header" data-drupal-link-system-path="node/101291">Combating climate change</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-3 has-children">
+            <a href="/about-us/sustainability/integrity/" data-linktype="header" data-drupal-link-system-path="node/102306">Conducting our business with integrity</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Sustainability</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/about-us/sustainability/integrity/" data-linktype="header" data-drupal-link-system-path="node/102306">Conducting our business with integrity</a>
+        </li>
+      
+                        
+                    
+          <li class="level-4">
+            <a href="/about-us/sustainability/integrity/our-compliance-corner/" data-linktype="header" data-drupal-link-system-path="node/102371">Our compliance corner</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/sustainability/our-people/" data-linktype="header" data-drupal-link-system-path="node/102166">Our people</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-3 has-children">
+            <a href="/about-us/sustainability/downloads/" data-linktype="header" data-drupal-link-system-path="node/10316">Downloads</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Sustainability</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/about-us/sustainability/downloads/" data-linktype="header" data-drupal-link-system-path="node/10316">Downloads</a>
+        </li>
+      
+                        
+                    
+          <li class="level-4">
+            <a href="/about-us/sustainability/report-archive/" data-linktype="header" data-drupal-link-system-path="node/16671">Report archive</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/sustainability/articles/" data-linktype="header" data-drupal-link-system-path="node/110491">Articles</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                                                      
+          <li class="level-2 has-children">
+            <a href="/about-us/careers/" data-linktype="header" data-drupal-link-system-path="node/11256">Careers</a>
+
+                          
+                      
+    
+    <ul class="level-3">
+              <li class="level-3 back"><a href="#">About us</a></li>
+      
+                    
+              <li class="level-3 lander">
+          <a href="/about-us/careers/" data-linktype="header" data-drupal-link-system-path="node/11256">Careers</a>
+        </li>
+      
+                        
+                                                      
+          <li class="level-3 has-children">
+            <a href="/about-us/careers/life-at-nokia/" data-linktype="header" data-drupal-link-system-path="node/3291">Life at Nokia</a>
+
+                          
+                      
+    
+    <ul class="level-4">
+              <li class="level-4 back"><a href="#">Careers</a></li>
+      
+                    
+              <li class="level-4 lander">
+          <a href="/about-us/careers/life-at-nokia/" data-linktype="header" data-drupal-link-system-path="node/3291">Life at Nokia</a>
+        </li>
+      
+                        
+                    
+          <li class="level-4">
+            <a href="/about-us/careers/life-at-nokia/campus-spotlights/" data-linktype="header" data-drupal-link-system-path="node/88661">Campus spotlights</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/careers/life-at-nokia/feel-connected/" data-linktype="header" data-drupal-link-system-path="node/69511">Feel Connected</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/careers/life-at-nokia/feel-inspired/" data-linktype="header" data-drupal-link-system-path="node/69516">Feel Inspired</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/careers/life-at-nokia/feel-empowered/" data-linktype="header" data-drupal-link-system-path="node/69521">Feel empowered</a>
+
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/careers/life-at-nokia/feel-engaged/" data-linktype="header" data-drupal-link-system-path="node/69526">Feel engaged</a>
+
+                      </li>
+                                
+                                                      
+          <li class="level-4 has-children">
+            <a href="/about-us/careers/life-at-nokia/employee-blogs/" data-linktype="header" data-drupal-link-system-path="node/4056">Employee blogs</a>
+
+                          
+                      
+    
+    <ul class="level-5">
+      
+                    
+              <li class="level-5 lander">
+          <a href="/about-us/careers/life-at-nokia/employee-blogs/" data-linktype="header" data-drupal-link-system-path="node/4056">Employee blogs</a>
+        </li>
+      
+                        
+                    
+          <li class="level-5">
+            <a href="/about-us/careers/life-at-nokia/employee-blogs/2020-ada-lovelace-honoree-anne-lee-pioneering-software-engineer-in-telecommunications-technology/" data-linktype="header" data-drupal-link-system-path="node/94636">2020 Ada Lovelace Honoree Anne Lee “Pioneering Software Engineer” in telecommunications technology</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/about-us/careers/life-at-nokia/employee-blogs/2020-ada-lovelace-honoree-paola-galli-need-for-speed-in-the-field-of-silicon-photonics/" data-linktype="header" data-drupal-link-system-path="node/94641">2020 Ada Lovelace Honoree Paola Galli “Need for Speed” in the field of Silicon Photonics</a>
+
+                      </li>
+                                
+                    
+          <li class="level-5">
+            <a href="/about-us/careers/life-at-nokia/employee-blogs/dr-katherine-guo-nokias-2019-ada-lovelace-honoree/" data-linktype="header" data-drupal-link-system-path="node/78231">Dr. Katherine Guo, Nokia’s 2019 Ada Lovelace Honoree</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-4">
+            <a href="/about-us/careers/life-at-nokia/nokia-in-pictures/" data-linktype="header" data-drupal-link-system-path="node/11261">Nokia in pictures</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/careers/our-opportunities/" data-linktype="header" data-drupal-link-system-path="node/3371">Our opportunities</a>
+
+                      </li>
+                                
+                    
+          <li class="level-3">
+            <a href="/about-us/careers/student-and-graduate-opportunities/" data-linktype="header" data-drupal-link-system-path="node/4441">Student and graduate opportunities</a>
+
+                      </li>
+                  </ul>
+  
+                      </li>
+                  </ul>
+  
+                      </li>
+                                </ul>
+  
+
+
+                  <div class="nr bottom-row">
+                          <div class="bottom-row-link visible-desktop">
+                <a href="/" >Home</a>
+              </div>
+              <div class="bottom-row-link">
+                <a href="https://www.nokia.com/support/">Support</a>
+              </div>
+              <div class="bottom-row-link">
+                <a href="https://www.nokia.com/contact-us/">Contact us</a>
+              </div>
+                        <div class="bottom-row-link visible-mobile mobile-language-selector">
+              <a href="/language-selector/" class="toggle-globe language-selection-toggle" role="button" aria-label="Language menu English">
+                <div class="globe"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <path fill="#094391" d="M19.958 9.474a9.92 9.92 0 0 0-.924-3.685 10.154 10.154 0 0 0-.568-1.052A9.932 9.932 0 0 0 10 0C6.429 0 3.277 1.895 1.513 4.737c-.21.337-.4.695-.568 1.052a10.343 10.343 0 0 0-.924 3.685C.021 9.642 0 9.832 0 10c0 .168 0 .358.021.526.084 1.306.4 2.548.924 3.685.168.357.358.715.568 1.052C3.277 18.105 6.429 20 10 20c3.571 0 6.723-1.895 8.487-4.737.21-.337.4-.695.568-1.052.525-1.137.84-2.38.924-3.685 0-.168.021-.358.021-.526 0-.168-.021-.358-.042-.526zm-17.164 5.79h2.731c.42 1.304.988 2.42 1.68 3.22a8.758 8.758 0 0 1-4.41-3.22zM17.206 4.736h-2.731c-.42-1.305-.988-2.421-1.68-3.221a8.758 8.758 0 0 1 4.41 3.22zm-3.004 4.737h-3.677V5.789h3.151c.295 1.116.484 2.358.526 3.685zm-.505 4.737h-3.15v-3.685h3.655a17.925 17.925 0 0 1-.505 3.685zM5.82 10.526h3.656v3.685H6.324a15.446 15.446 0 0 1-.505-3.685zm.484-4.737h3.15v3.685H5.82c.021-1.327.21-2.569.484-3.685zm7.058-1.052h-2.836v-3.6c1.156.316 2.164 1.684 2.836 3.6zm-3.886-3.6v3.6H6.639c.672-1.916 1.68-3.284 2.836-3.6zM6.639 15.263h2.836v3.6c-1.156-.316-2.164-1.684-2.836-3.6zm3.886 3.6v-3.6h2.836c-.672 1.916-1.68 3.284-2.836 3.6zM7.185 1.516c-.693.82-1.26 1.916-1.68 3.22H2.772a8.939 8.939 0 0 1 4.412-3.22zM5.21 5.789a19.602 19.602 0 0 0-.462 3.685H1.092a9.095 9.095 0 0 1 1.03-3.685H5.21zm-.462 4.737c.042 1.327.189 2.548.462 3.685H2.122a9.095 9.095 0 0 1-1.03-3.685h3.656zm8.067 7.958c.693-.82 1.26-1.916 1.68-3.22h2.732a8.939 8.939 0 0 1-4.412 3.22zm1.975-4.273a16.66 16.66 0 0 0 .462-3.685h3.656a9.095 9.095 0 0 1-1.03 3.685H14.79zm.462-4.737a19.602 19.602 0 0 0-.462-3.685h3.088a8.776 8.776 0 0 1 1.03 3.685h-3.656z"/>
+</svg>
+<span>English</span></div>
+              </a>
+            </div>
+                          <div class="bottom-row-link visible-desktop">
+                <a href="/extranet-access/" class="btn btn-transparent-blue">Extranet access</a>
+              </div>
+                      </div>
+              </div>
+
+              <div class="tiles">
+          <div class="navigation-tiles no-gutters">
+    <div class="nr">
+  <div class="nc-12">
+    
+        
+          <div class="box box-nav-background nr">
+  <div class="nc-7 nc-offset-1">
+    <label>Phones</label>              
+  <a  class="btn" href="/phones">Go to phones</a>
+    </div>
+  <a href="/phones" class="box__link"></a>
+</div>
+      </div>
+</div>
+<div class="nr">
+  <div class="nc-12">
+    
+        
+          <div class="box box-nav-background nr">
+  <div class="nc-7 nc-offset-1">
+    <label>Networks</label>              
+  <a  class="btn" href="/networks/">Go to networks</a>
+    </div>
+  <a href="/networks/" class="box__link"></a>
+</div>
+      </div>
+</div>
+
+
+</div>
+        </div>
+          </div>
+  </div>
+</div>
+
+
+    </div>
+      </header>
+
+  
+  
+
+  
+
+  
+
+  
+
+  <a id="main-content" tabindex="-1"></a>
+  <main class="layout-content">
+      <div>
+    <div data-drupal-messages-fallback class="hidden"></div><article data-history-node-id="113061" role="article" about="/networks/">
+
+  
+    
+
+  
+  <div>
+    
+<div class="t11-campaign-landing">
+  <div class="top-content-region">
+    
+  </div>
+    <div class="main-content-region">
+                  <div class="paragraph paragraph--type--template-t17 paragraph--view-mode--default">
+          
+<div class="t11-campaign-landing">
+  <div class="top-content-region">
+                
+  
+  <div class="st-none sb-none paragraph paragraph--type--m2-intro paragraph--view-mode--default">
+          
+
+
+
+
+
+  <style>@media all and (min-width: 1025px){ div#m2-intro {background-image: url('/sites/default/files/2021-12/ResrcID29244_GettyImages-837125558-low_0.jpg') !important; background-position: center center !important;}}</style>
+
+
+  <style>@media all and (min-width: 768px){ div#m2-intro {background-image: url('/sites/default/files/2021-12/ResrcID29244_GettyImages-837125558-low_0.jpg') !important; background-position: center center !important;}}</style>
+  <div id="m2-intro" class="intro with-image gradient-default   no-intro-text"  style="background-image: url('/sites/default/files/styles/scalecrop_1920x550/public/2021-12/ResrcID29244_GettyImages-837125558-low_0.jpg')" >
+  <div class="container color-white">
+    
+    <div class="nr">
+                                        <div class="nc-6">
+              <h1 class="fittext--headline-big color-white">At Nokia, we create technology that helps the world act together</h1>
+        <div class="intro--body"></div>        
+      </div>
+    </div>
+  </div>
+  </div>
+  
+  </div>
+
+      
+  </div>
+    <div class="main-content-region">
+          <div>
+              <div>    <div class="st-small sb-small paragraph paragraph--type--c0-layout-container paragraph--view-mode--default c-fonts">
+        
+
+  
+<div  class="c0-container bg-blue-very-light page-width">
+  <div class="container">
+                              
+  <div class="nr c0--col-four">
+		<div class="nc-3">
+			  
+  <div class="st-small sb-small paragraph paragraph--type--c1-0-reference-component paragraph--view-mode--default">
+      
+<div  class="c1-reference container">
+    <div class="nr">
+          <article  class="c1-reference--reference-item nc-12 title--below">
+
+        
+                          
+                    <div class="c1-reference--media-container c1-reference--image-container">
+    <picture>
+      <source media="(max-width: 719px)" srcset="/sites/default/files/styles/c1_reference/public/2022-01/Madrid_0.jpg">
+      <source media="(max-width: 1099px)" srcset="/sites/default/files/styles/c1_reference/public/2022-01/Madrid_0.jpg">
+      <img loading="lazy" src="https://www.nokia.com/sites/default/files/styles/c1_reference/public/2022-01/Madrid_0.jpg" alt="SReXperts" width="1088" height="704">
+    </picture>
+  </div>
+
+  <h2>SReXperts 22 EMEA event</h2>
+
+<p>A unique, invitation-only event designed to provide attendees from Europe, Middle East and Africa with the latest information on Nokia’s IP network solutions.</p>
+
+
+<a class="overlay"  href="/events/srexperts/emea/2022/" >
+</a>
+        
+        
+        
+      </article>
+      </div>
+</div>
+  </div>
+
+
+		</div>
+		<div class="nc-3">
+			  
+  <div class="st-small sb-small paragraph paragraph--type--c1-0-reference-component paragraph--view-mode--default">
+      
+<div  class="c1-reference container">
+    <div class="nr">
+          <article  class="c1-reference--reference-item nc-12 title--below">
+
+        
+                          
+                    <div class="c1-reference--media-container c1-reference--image-container">
+    <picture>
+      <source media="(max-width: 719px)" srcset="/sites/default/files/styles/c1_reference/public/2021-09/NOK0835-724x362px-image%20only.jpg">
+      <source media="(max-width: 1099px)" srcset="/sites/default/files/styles/c1_reference/public/2021-09/NOK0835-724x362px-image%20only.jpg">
+      <img loading="lazy" src="https://www.nokia.com/sites/default/files/styles/c1_reference/public/2021-09/NOK0835-724x362px-image%20only.jpg" alt="Industry 4.0" width="1088" height="704">
+    </picture>
+  </div>
+
+  <h2>Industry 4.0</h2>
+
+<p>Industry 4.0 digital technologies are transforming industries and governments into Ready 4.0 Anything operations, powered by Nokia purpose-designed mission, business and…</p>
+
+
+<a class="overlay"  href="/networks/industry-4-0/" >
+</a>
+        
+        
+        
+      </article>
+      </div>
+</div>
+  </div>
+
+
+		</div>
+		<div class="nc-3">
+			  
+  <div class="st-small sb-small paragraph paragraph--type--c1-0-reference-component paragraph--view-mode--default">
+      
+<div  class="c1-reference container">
+    <div class="nr">
+          <article  class="c1-reference--reference-item nc-12 title--below">
+
+        
+                          
+                    <div class="c1-reference--media-container c1-reference--image-container">
+    <picture>
+      <source media="(max-width: 719px)" srcset="/sites/default/files/styles/c1_reference/public/2021-11/3_0.png">
+      <source media="(max-width: 1099px)" srcset="/sites/default/files/styles/c1_reference/public/2021-11/3_0.png">
+      <img loading="lazy" src="https://www.nokia.com/sites/default/files/styles/c1_reference/public/2021-11/3_0.png" alt="New generation Nokia AirScale" width="1088" height="704">
+    </picture>
+  </div>
+
+  <h2>New generation Nokia AirScale</h2>
+
+<p>This is how AirScale delivers massive 5G capacity and network performance</p>
+
+
+<a class="overlay"  href="/airscale/" >
+</a>
+        
+        
+        
+      </article>
+      </div>
+</div>
+  </div>
+
+
+		</div>
+		<div class="nc-3">
+			  
+  <div class="st-small sb-small paragraph paragraph--type--c1-0-reference-component paragraph--view-mode--default">
+      
+<div  class="c1-reference container">
+    <div class="nr">
+          <article  class="c1-reference--reference-item nc-12 title--below">
+
+        
+                          
+                    <div class="c1-reference--media-container c1-reference--image-container">
+    <picture>
+      <source media="(max-width: 719px)" srcset="/sites/default/files/styles/c1_reference/public/2022-03/%23NB%20webpage%20main%20still_1920x850_3.jpg">
+      <source media="(max-width: 1099px)" srcset="/sites/default/files/styles/c1_reference/public/2022-03/%23NB%20webpage%20main%20still_1920x850_3.jpg">
+      <img loading="lazy" src="https://www.nokia.com/sites/default/files/styles/c1_reference/public/2022-03/%23NB%20webpage%20main%20still_1920x850_3.jpg" alt="Noboundaries" width="1088" height="704">
+    </picture>
+  </div>
+
+  <h2>Imagine a world with #NoBoundaries</h2>
+
+<p>What would you do if you had #NoBoundaries?</p>
+
+
+<a class="overlay"  href="/networks/noboundaries/" >
+</a>
+        
+        
+        
+      </article>
+      </div>
+</div>
+  </div>
+
+
+		</div>
+	</div>
+
+
+  </div>
+</div>
+  </div>
+</div>
+              <div>    <div class="st-small sb-small paragraph paragraph--type--c0-layout-container paragraph--view-mode--default c-fonts">
+        
+
+  
+<div  class="c0-container bg-white page-width">
+  <div class="container">
+                        
+      
+<div class="nr c0--col-two">
+							<div class="nc-9">
+			    <div class="paragraph paragraph--type--c23-component paragraph--view-mode--default">
+    
+
+<div class="c23-component c0-container c23-component-pid-715146 bg-white">
+    <div class="container">
+
+                <h3>Network topics</h3>
+        
+        
+
+        
+        
+        
+                                    <div class="nr">
+                                    <article class="c23-component-item nc-4">
+  
+        
+      <a href="/networks/industries/defense/strategic-communications/">
+			<div class="c23-reference--image-container">
+			<picture>
+				<source media="(max-width: 719px)" srcset="/sites/default/files/styles/scale_720/public/2022-03/Nokia_defense_Reference_Image_800x500.jpg?h=e91a75a9">
+				<source media="(max-width: 1099px)" srcset="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-03/Nokia_defense_Reference_Image_800x500.jpg?h=e91a75a9">
+				<img loading="lazy" src="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-03/Nokia_defense_Reference_Image_800x500.jpg?h=e91a75a9" alt="defense">
+			</picture>
+		</div>
+	
+	<h4>Ready 4.0 operational leadership in defense</h4>
+
+    <p>Empower defense forces with digital solutions that automate key operations to increase safety, productivity and efficiency. </p>
+  </a>
+  
+  
+  </article>
+                                    <article class="c23-component-item nc-4">
+  
+        
+      <a href="/networks/network-slicing/5g-edge-slicing/">
+			<div class="c23-reference--image-container">
+			<picture>
+				<source media="(max-width: 719px)" srcset="/sites/default/files/styles/scale_720/public/2022-02/ResrcID27926_GettyImages-688900031-hgh_0.jpg?h=56d0ca2e">
+				<source media="(max-width: 1099px)" srcset="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-02/ResrcID27926_GettyImages-688900031-hgh_0.jpg?h=56d0ca2e">
+				<img loading="lazy" src="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-02/ResrcID27926_GettyImages-688900031-hgh_0.jpg?h=56d0ca2e" alt="5G Edge Slicing">
+			</picture>
+		</div>
+	
+	<h4>5G Edge Slicing</h4>
+
+    <p>New enterprise services with virtualized 4G/5G network</p>
+  </a>
+  
+  
+  </article>
+                                    <article class="c23-component-item nc-4">
+  
+        
+      <a href="/networks/network-slicing/">
+			<div class="c23-reference--image-container">
+			<picture>
+				<source media="(max-width: 719px)" srcset="/sites/default/files/styles/scale_720/public/2021-02/ResrcID27926_GettyImages-688900031-hgh.jpg?h=56d0ca2e">
+				<source media="(max-width: 1099px)" srcset="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2021-02/ResrcID27926_GettyImages-688900031-hgh.jpg?h=56d0ca2e">
+				<img loading="lazy" src="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2021-02/ResrcID27926_GettyImages-688900031-hgh.jpg?h=56d0ca2e" alt="Automated network slicing">
+			</picture>
+		</div>
+	
+	<h4>Automated network slicing</h4>
+
+    <p>Create new revenue growth
+</p>
+  </a>
+  
+  
+  </article>
+                            </div>
+                    <div class="nr">
+                                    <article class="c23-component-item nc-4">
+  
+        
+      <a href="/networks/radio-access-networks/intelligent-ran-operations/">
+			<div class="c23-reference--image-container">
+			<picture>
+				<source media="(max-width: 719px)" srcset="/sites/default/files/styles/scale_720/public/2022-02/Nokia%20-%20Energy%20Savings%20Mgmt%20-%20City%20With%20Radio%20Signals%20-%20Header.png.jpg">
+				<source media="(max-width: 1099px)" srcset="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-02/Nokia%20-%20Energy%20Savings%20Mgmt%20-%20City%20With%20Radio%20Signals%20-%20Header.png?h=ddb83014">
+				<img loading="lazy" src="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-02/Nokia%20-%20Energy%20Savings%20Mgmt%20-%20City%20With%20Radio%20Signals%20-%20Header.png?h=ddb83014" alt="Intelligent RAN Operations">
+			</picture>
+		</div>
+	
+	<h4>Intelligent RAN Operations</h4>
+
+    <p>Go beyond automation with machine learning</p>
+  </a>
+  
+  
+  </article>
+                                    <article class="c23-component-item nc-4">
+  
+        
+      <a href="/networks/5g/5g-signaling/">
+			<div class="c23-reference--image-container">
+			<picture>
+				<source media="(max-width: 719px)" srcset="/sites/default/files/styles/scale_720/public/2021-11/ResrcID28398_GettyImages-1195455865-hgh%20%281%29.jpg?h=56d0ca2e">
+				<source media="(max-width: 1099px)" srcset="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2021-11/ResrcID28398_GettyImages-1195455865-hgh%20%281%29.jpg?h=56d0ca2e">
+				<img loading="lazy" src="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2021-11/ResrcID28398_GettyImages-1195455865-hgh%20%281%29.jpg?h=56d0ca2e" alt="5G Signaling">
+			</picture>
+		</div>
+	
+	<h4>5G Signaling</h4>
+
+    <p>Having the right 5G signaling architecture from start is essential for business success.</p>
+  </a>
+  
+  
+  </article>
+                                    <article class="c23-component-item nc-4">
+  
+        
+      <a href="/networks/broadband-access/">
+			<div class="c23-reference--image-container">
+			<picture>
+				<source media="(max-width: 719px)" srcset="/sites/default/files/styles/scale_720/public/2021-10/Broadband_for_the_future_now_top_banner.jpg?h=ab93c069">
+				<source media="(max-width: 1099px)" srcset="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2021-10/Broadband_for_the_future_now_top_banner.jpg?h=ab93c069">
+				<img loading="lazy" src="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2021-10/Broadband_for_the_future_now_top_banner.jpg?h=ab93c069" alt="Broadband">
+			</picture>
+		</div>
+	
+	<h4>Broadband access</h4>
+
+    <p>Create a future-proof broadband network that connects more people, more quickly, and more profitably than ever before</p>
+  </a>
+  
+  
+  </article>
+                            </div>
+                        
+        
+        <div class="view-more-container"></div>
+
+                <div class="view-more-link-container">
+            <a class="read-more use-ajax" href="/ajax/view-more/c23-component/?prid=20419526&amp;offset=6" data-action="open" >
+  View more
+</a>
+
+        </div>
+            </div>
+</div>
+  </div>
+
+
+		</div>
+		<div class="nc-3">
+			    <div class="paragraph paragraph--type--c23-component paragraph--view-mode--default">
+    
+
+<div class="c23-component c0-container c23-component-pid-715216 bg-white">
+    <div class="container">
+
+                <h3>Latest launches</h3>
+        
+        
+
+        
+        
+        
+                                    
+                <div class="c23-component__wrapper nr">
+                                        <div class="nc-12">
+                    <ul class="c23-component__link-list">
+                                                                                    <li>
+                                                                                                                        <a href="/networks/services/circular-products-and-services/">Circular Products and Services</a>
+                                                                                                            </li>
+                                                                                                                <li>
+                                                                                                                        <a href="/networks/insights-and-analytics/nwdaf/">Nokia AVA NWDAF </a>
+                                                                                                            </li>
+                                                                                                                <li>
+                                                                                                                        <a href="/networks/solutions/coherent-routing/">Coherent Routing</a>
+                                                                                                            </li>
+                                                                                                                <li>
+                                                                                                                        <a href="/networks/products/edge-network-controller/">Edge Network Controller</a>
+                                                                                                            </li>
+                                                                                                                <li>
+                                                                                                                        <a href="/networks/solutions/adaptive-cloud-networking/">Adaptive Cloud Networking</a>
+                                                                                                            </li>
+                                                                                                                <li>
+                                                                                                                        <a href="https://web.asn.com/en/">End-to-end Subsea solutions </a>
+                                                                                                            </li>
+                                                                                                                <li>
+                                                                                                                        <a href="/networks/mobile-networks/airscale-radio-access/cloud-ran/">AirScale Cloud RAN</a>
+                                                                                                            </li>
+                                                                                                                <li>
+                                                                                                                        <a href="/networks/solutions/netguard-cybersecurity-dome/">NetGuard Cybersecurity Dome</a>
+                                                                                                            </li>
+                                                                        </ul>
+                </div>
+                    </div>
+                
+        
+        <div class="view-more-container"></div>
+
+            </div>
+</div>
+  </div>
+
+
+		</div>
+	</div>
+
+        	<div class="st-none sb-none paragraph paragraph--type--c0-layout-row paragraph--view-mode--default nr c0--col-one c-fonts">
+		<div class="nc-12">
+			    <div class="paragraph paragraph--type--c23-component paragraph--view-mode--default">
+    
+
+<div class="c23-component c0-container c23-component-pid-715131 bg-white">
+    <div class="container">
+
+                <h3>Insights</h3>
+        
+        
+
+                    <div class="c23-component__see-all-link">
+                <a href="/networks/insights/" target="_blank">See all</a>
+            </div>
+        
+        
+        
+                                    <div class="nr">
+                                    <article class="c23-component-item nc-3">
+  
+        
+      <a href="/networks/insights/the-human-story-of-GSM/">
+			<div class="c23-reference--image-container">
+			<picture>
+				<source media="(max-width: 719px)" srcset="/sites/default/files/styles/scale_720/public/2022-03/Web-banner3_greenblue-n.jpg?h=d4d2d9cb">
+				<source media="(max-width: 1099px)" srcset="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-03/Web-banner3_greenblue-n.jpg?h=d4d2d9cb">
+				<img loading="lazy" src="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-03/Web-banner3_greenblue-n.jpg?h=d4d2d9cb" alt="father of GSM">
+			</picture>
+		</div>
+	
+	<h4>The human story of GSM</h4>
+
+    <p>Meet Timo Ali-Vehmas who delived one of the fundamental elements of global connectivity with the first official GSM call.</p>
+  </a>
+  
+  
+  </article>
+                                    <article class="c23-component-item nc-3">
+  
+        
+      <a href="/networks/insights/neutral-hosts-path-to-5G-profitability/">
+			<div class="c23-reference--image-container">
+			<picture>
+				<source media="(max-width: 719px)" srcset="/sites/default/files/styles/scale_720/public/2022-03/thumbnail%20neutral%20host.jpg?h=9d03a889">
+				<source media="(max-width: 1099px)" srcset="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-03/thumbnail%20neutral%20host.jpg?h=9d03a889">
+				<img loading="lazy" src="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-03/thumbnail%20neutral%20host.jpg?h=9d03a889" alt="neutral hosts">
+			</picture>
+		</div>
+	
+	<h4>Neutral hosts: A route to greater 5G profitability for CSPs?</h4>
+
+    <p>Neutral host infrastructure can help CSPs to reduce costs, free up capital, and roll out services faster. American Tower, Cellnex and SiFi Networks explain how.</p>
+  </a>
+  
+  
+  </article>
+                                    <article class="c23-component-item nc-3">
+  
+        
+      <a href="/networks/noboundaries/kpis-for-dsps/">
+			<div class="c23-reference--image-container">
+			<picture>
+				<source media="(max-width: 719px)" srcset="/sites/default/files/styles/scale_720/public/2022-02/KPI%20article%20thumbnail_0.jpg?h=c9f93661">
+				<source media="(max-width: 1099px)" srcset="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-02/KPI%20article%20thumbnail_0.jpg?h=c9f93661">
+				<img loading="lazy" src="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-02/KPI%20article%20thumbnail_0.jpg?h=c9f93661" alt="KPIs for DSPs">
+			</picture>
+		</div>
+	
+	<h4>KPIs for DSPs</h4>
+
+    <p>For CSPs, an essential first step toward capitalizing on 5G is reinventing traditional key performance indicators (KPIs) to focus more on value creation.
+
+</p>
+  </a>
+  
+  
+  </article>
+                                    <article class="c23-component-item nc-3">
+  
+        
+      <a href="/networks/5g/robbie-kellman-baxter-5-tips-for-monetizing-5g/">
+			<div class="c23-reference--image-container">
+			<picture>
+				<source media="(max-width: 719px)" srcset="/sites/default/files/styles/scale_720/public/2022-02/Robbie_Kellman_Baxter_small_2.jpg?h=c9f93661">
+				<source media="(max-width: 1099px)" srcset="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-02/Robbie_Kellman_Baxter_small_2.jpg?h=c9f93661">
+				<img loading="lazy" src="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-02/Robbie_Kellman_Baxter_small_2.jpg?h=c9f93661" alt="Robbie Kellman Baxter ">
+			</picture>
+		</div>
+	
+	<h4>Monetizing 5G: Five tips for CSPs from Robbie Kellman Baxter</h4>
+
+    <p>CSPs keen to move up the value chain will need to rethink and adapt their subscription models to embrace the new opportunities of the 5G era. Baxter offers five tips.</p>
+  </a>
+  
+  
+  </article>
+                            </div>
+                        
+        
+        <div class="view-more-container"></div>
+
+            </div>
+</div>
+  </div>
+
+
+		</div>
+	</div>
+
+
+  </div>
+</div>
+  </div>
+</div>
+              <div>    <div class="st-small sb-small paragraph paragraph--type--c0-layout-container paragraph--view-mode--default c-fonts">
+        
+
+  
+<div  class="c0-container bg-blue-very-light page-width">
+  <div class="container">
+                        
+      
+<div class="nr c0--col-two">
+							<div class="nc-9">
+			    <div class="paragraph paragraph--type--c23-component paragraph--view-mode--default">
+    
+
+<div class="c23-component c0-container c23-component-pid-715101 bg-blue-very-light">
+    <div class="container">
+
+                <h3>Recent blogs</h3>
+        
+        
+
+                    <div class="c23-component__see-all-link">
+                <a href="/blog/" target="_blank">See all</a>
+            </div>
+        
+        
+        
+                                    <div class="nr">
+                                    <article class="c23-component-item nc-4">
+  
+        
+      <a href="/blog/covid-19-the-metaverse-whats-next-for-telecom-operators/">
+			<div class="c23-reference--image-container">
+			<picture>
+				<source media="(max-width: 719px)" srcset="/sites/default/files/styles/scale_720/public/2022-04/Covid%2C%20metaverse_blogpost_942wide_v2.jpg?h=5852f441">
+				<source media="(max-width: 1099px)" srcset="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-04/Covid%2C%20metaverse_blogpost_942wide_v2.jpg?h=5852f441">
+				<img loading="lazy" src="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-04/Covid%2C%20metaverse_blogpost_942wide_v2.jpg?h=5852f441" alt="COVID-19, the Metaverse: What’s next for telecom operators ">
+			</picture>
+		</div>
+	
+	<h4>COVID-19, the Metaverse: What’s next for telecom operators </h4>
+
+    <p>How to build systems and networks for a sustainable, secure, and scalable Iinternet. </p>
+  </a>
+  
+  
+  </article>
+                                    <article class="c23-component-item nc-4">
+  
+        
+      <a href="https://acgcc.com/blogs/2022/02/23/clouds-move-closer-edge-networks-maximizing-their-value-will-share-their-cloud-native-dna/">
+			<div class="c23-reference--image-container">
+			<picture>
+				<source media="(max-width: 719px)" srcset="/sites/default/files/styles/scale_720/public/2022-04/360x360-darkblue-01_0_0.jpg?h=0d930f21">
+				<source media="(max-width: 1099px)" srcset="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-04/360x360-darkblue-01_0_0.jpg?h=0d930f21">
+				<img loading="lazy" src="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-04/360x360-darkblue-01_0_0.jpg?h=0d930f21" alt="image">
+			</picture>
+		</div>
+	
+	<h4>As Clouds Move Closer to the Edge, Networks Maximizing Their Value Will Share Their Cloud-Native DNA</h4>
+
+    <p>Cloud configurations are evolving with new instances materializing at network and premises edge locations at a rapid pace.</p>
+  </a>
+  
+  
+  </article>
+                                    <article class="c23-component-item nc-4">
+  
+        
+      <a href="/blog/ip-router-silicon-the-key-to-universal-protection-against-network-level-threats/">
+			<div class="c23-reference--image-container">
+			<picture>
+				<source media="(max-width: 719px)" srcset="/sites/default/files/styles/scale_720/public/2022-04/ResrcID31346_Nokia_FP5_Glamshot_04%20%281%29.jpg?h=0ead7817">
+				<source media="(max-width: 1099px)" srcset="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-04/ResrcID31346_Nokia_FP5_Glamshot_04%20%281%29.jpg?h=0ead7817">
+				<img loading="lazy" src="/sites/default/files/styles/scalecrop_362x181_new_insights_desktop/public/2022-04/ResrcID31346_Nokia_FP5_Glamshot_04%20%281%29.jpg?h=0ead7817" alt="IP router silicon: The key to universal protection against network level threats.">
+			</picture>
+		</div>
+	
+	<h4>IP router silicon: The key to universal protection against network level threats.</h4>
+
+    <p>Learn how silicon-based security can enable you to protect your entire IP network without compromises.</p>
+  </a>
+  
+  
+  </article>
+                            </div>
+                        
+        
+        <div class="view-more-container"></div>
+
+            </div>
+</div>
+  </div>
+
+
+		</div>
+		<div class="nc-3">
+			    <div class="paragraph paragraph--type--c23-component paragraph--view-mode--default">
+    
+
+<div class="c23-component c0-container c23-component-pid-715106 bg-blue-very-light">
+    <div class="container">
+
+                <h3>Latest news</h3>
+        
+        
+
+                    <div class="c23-component__see-all-link">
+                <a href="/about-us/newsroom/" target="_blank">See all</a>
+            </div>
+        
+        
+        
+                                    
+                <div class="c23-component__wrapper nr">
+                                        <div class="nc-12">
+                    <ul class="c23-component__link-list">
+                                                                                    <li>
+                                                                                                                        <a href="https://www.tpgtelecom.com.au/sites/default/files/media-release/Media%20release_TPG%20Telecom%20sets%20world%20record%20for%205G%20video%20and%20voice%20calls.pdf">TPG Telecom sets new world record for 5G video and voice call </a>
+                                                                                                            </li>
+                                                                                                                <li>
+                                                                                                                        <a href="https://www.linuxfoundation.org/press-release/linux-foundation-announces-new-project-camara-the-telco-global-api-alliance-with-global-industry-ecosystem/">Linux Foundation Announces New Project “CAMARA – The Telco Global API Alliance” with Global Industry Ecosystem</a>
+                                                                                                            </li>
+                                                                                                                <li>
+                                                                                                                        <a href="/about-us/news/releases/2022/03/03/nokia-launches-next-generation-otn-architecture-for-wholesale-services/">Nokia launches next generation OTN architecture for wholesale services</a>
+                                                                                                            </li>
+                                                                                                                <li>
+                                                                                                                        <a href="/about-us/news/releases/2022/03/01/nokia-launches-adaptive-cloud-networking-to-transform-service-provider-cloud-networks-to-be-consumable-agile-and-automated-mwc22/">Nokia launches Adaptive Cloud Networking to transform service provider cloud networks to be consumable, agile and automated #MWC22</a>
+                                                                                                            </li>
+                                                                        </ul>
+                </div>
+                    </div>
+                
+        
+        <div class="view-more-container"></div>
+
+            </div>
+</div>
+  </div>
+
+
+		</div>
+	</div>
+
+
+  </div>
+</div>
+  </div>
+</div>
+          </div>
+  
+  </div>
+</div>
+
+      </div>
+
+      
+  </div>
+</div>
+
+  </div>
+
+</article>
+
+  </div>
+
+  </main>
+  
+  
+
+      <footer role="contentinfo">
+        <div>
+    <div id="block-nokiaoneglobalfooter">
+  
+    
+      <div class="footer">
+  <div class="container">
+    <div class="nr">
+            <div class="nc-12 footer-nokia-logo"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 134.84" width="100" height="20" aria-label="Nokia logo" focusable="false">
+  <path fill="#124191" d="M38.52 133.18H0V2.18H66.62L143.05 99.98V2.18H181.57V133.18H116.3L38.52 33.71V133.18M365.87 92.67C365.87 110.88 362.65 117.16 357.32 123.18C349.15 132.14 337.26 134.84 314.35 134.84L248.58 134.84C225.67 134.84 213.76 132.14 205.6 123.18C200.27 117.16 197.05 110.88 197.05 92.67L197.05 42.17C197.05 23.97 200.27 17.7 205.6 11.67C213.77 2.7 225.67 0 248.58 0L314.35 0C337.26 0 349.15 2.7 357.32 11.67C362.65 17.7 365.87 23.97 365.87 42.17L365.87 92.67M312.73 101.65C321.53 101.65 324.63 101.13 326.74 99.21C328.71 97.42 329.58 95.11 329.58 87.41L329.58 47.43C329.58 39.73 328.71 37.44 326.74 35.64C324.63 33.71 321.53 33.2 312.73 33.2L250.19 33.2C241.39 33.2 238.29 33.71 236.19 35.64C234.21 37.44 233.34 39.73 233.34 47.43L233.34 87.41C233.34 95.11 234.21 97.42 236.19 99.21C238.29 101.13 241.39 101.65 250.19 101.65L312.73 101.65V101.65M421.85 2.18V133.18H381.6V2.18H421.85M489.85 2.18H542.99L471.27 63.45 552.16 133.18H495.3L421.85 64.86 489.85 2.18M559.58 2.18H599.84V133.18H559.58M753.31 133.18 741.4 110.36H663.51L651.74 133.17H607.27L678.62 2.18H728.66L800 133.18H753.31M677.5 81.91H727.55L702.52 34.48 677.5 81.91">
+  </path>
+</svg>
+</div>
+          </div>
+        <div class="nr footer-social-contact">
+      <div class="nc-6 footer-social">
+        <div class="footer-social--icons">
+          <ul>
+                          <li>
+                <a data-linktype="footer" href="https://www.instagram.com/nokia/?hl=en" aria-label="Instagram">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42" focusable="false">
+    <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+        <g fill="#FFF" fill-rule="nonzero" transform="translate(12 11.5)">
+            <path d="M8.5 1.531c2.27 0 2.54.01 3.435.048.829.038 1.278.177 1.579.294.397.156.68.339.977.636.298.297.48.58.636.978.118.3.256.75.294 1.58.041.895.048 1.164.048 3.435 0 2.27-.01 2.54-.048 3.435-.038.83-.176 1.279-.294 1.58-.155.397-.338.68-.636.977-.297.298-.58.48-.977.636-.301.118-.75.256-1.58.294-.894.042-1.164.048-3.434.048-2.27 0-2.54-.01-3.435-.048-.829-.038-1.278-.176-1.579-.294a2.648 2.648 0 0 1-.977-.636 2.648 2.648 0 0 1-.636-.978c-.118-.3-.256-.75-.294-1.579-.041-.895-.048-1.165-.048-3.435s.01-2.54.048-3.436c.038-.829.176-1.278.294-1.579.155-.397.338-.68.636-.978.297-.297.58-.48.977-.636.301-.117.75-.256 1.58-.294.898-.041 1.164-.048 3.434-.048zM8.5 0C6.192 0 5.902.01 4.996.052c-.905.041-1.523.186-2.062.394a4.168 4.168 0 0 0-1.507.981c-.473.47-.764.947-.981 1.504C.235 3.47.093 4.088.052 4.994.01 5.899 0 6.19 0 8.498c0 2.309.01 2.6.052 3.505.041.905.186 1.524.394 2.063.217.56.508 1.033.981 1.507.473.473.947.763 1.507.981.539.211 1.157.353 2.062.394.906.042 1.196.052 3.504.052s2.598-.01 3.504-.052c.905-.041 1.523-.186 2.062-.394a4.168 4.168 0 0 0 1.507-.981c.473-.474.764-.947.981-1.507.211-.54.353-1.158.394-2.063.042-.906.052-1.196.052-3.505 0-2.308-.01-2.599-.052-3.504-.041-.906-.186-1.524-.394-2.063a4.192 4.192 0 0 0-.978-1.504A4.168 4.168 0 0 0 14.07.446c-.54-.211-1.158-.353-2.063-.394C11.098.01 10.808 0 8.5 0z"/>
+            <path d="M8.5 4a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9zm0 7.422a2.921 2.921 0 1 1-.001-5.842 2.921 2.921 0 0 1 .001 5.842z"/>
+            <circle cx="13.5" cy="4.5" r="1.5"/>
+        </g>
+    </g>
+</svg>
+                </a>
+              </li>
+                          <li>
+                <a data-linktype="footer" href="https://www.youtube.com/user/nokia" aria-label="Youtube">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42" focusable="false">
+    <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+        <path fill="#FFF" fill-rule="nonzero" d="M28.336 16.404a2.39 2.39 0 0 0-2.166-2.176A69.554 69.554 0 0 0 20.425 14c-2.935 0-5.15.12-6.582.234a2.39 2.39 0 0 0-2.18 2.179c-.087.93-.163 2.159-.163 3.623 0 1.429.075 2.635.163 3.554a2.389 2.389 0 0 0 2.179 2.176c1.432.113 3.648.234 6.583.234 2.437 0 4.412-.116 5.745-.228a2.39 2.39 0 0 0 2.166-2.176c.088-.926.164-2.146.164-3.596 0-1.45-.076-2.67-.164-3.596zM18.11 22.52v-5.038L23.038 20l-4.928 2.519z"/>
+    </g>
+</svg>
+                </a>
+              </li>
+                          <li>
+                <a data-linktype="footer" href="https://twitter.com/nokia" aria-label="Twitter">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="16" viewBox="0 0 20 16" focusable="false">
+    <g fill="none"><path d="M20 1.894a8.307 8.307 0 0 1-2.356.636A4.069 4.069 0 0 0 19.448.295a8.289 8.289 0 0 1-2.606.98A4.127 4.127 0 0 0 13.846 0c-2.265 0-4.102 1.808-4.102 4.04 0 .316.036.624.106.92A11.712 11.712 0 0 1 1.392.74a3.976 3.976 0 0 0-.555 2.03c0 1.401.724 2.637 1.825 3.362a4.134 4.134 0 0 1-1.858-.505v.05c0 1.957 1.414 3.59 3.29 3.96a4.149 4.149 0 0 1-1.851.07c.521 1.605 2.036 2.772 3.832 2.805a8.32 8.32 0 0 1-5.096 1.729c-.33 0-.657-.02-.979-.056A11.749 11.749 0 0 0 6.29 16c7.547 0 11.674-6.155 11.674-11.493 0-.175-.003-.35-.011-.522A8.261 8.261 0 0 0 20 1.895" fill-rule="evenodd" fill="#03180D"></path></g>
+</svg>
+                </a>
+              </li>
+                          <li>
+                <a data-linktype="footer" href="https://www.facebook.com/nokia/" aria-label="Facebook">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42" focusable="false">
+    <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+        <path fill="#FFF" fill-rule="nonzero" d="M23.5 17.18h-2.384v-1.66c0-.623.39-.769.663-.769h1.683V12.01L21.145 12c-2.572 0-3.158 2.045-3.158 3.353v1.828H16.5v2.825h1.487V28h3.129v-7.994h2.111l.273-2.825z"/>
+    </g>
+</svg>
+                </a>
+              </li>
+                          <li>
+                <a data-linktype="footer" href="https://www.linkedin.com/company/nokia" aria-label="LinkedIn">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42" focusable="false">
+    <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+        <g fill="#FFF" fill-rule="nonzero" transform="translate(13 13)">
+            <path d="M3.733 13h-2.8V3.714h2.8V13zM14 13h-2.8V8.04c0-1.293-.463-1.936-1.38-1.936-.727 0-1.189.36-1.42 1.081V13H5.6s.037-8.357 0-9.286h2.21l.17 1.857h.059c.574-.928 1.491-1.558 2.75-1.558.956 0 1.73.265 2.32.93.595.666.891 1.559.891 2.813V13z"/>
+            <ellipse cx="2.333" cy="1.393" rx="1.447" ry="1.393"/>
+        </g>
+    </g>
+</svg>
+                </a>
+              </li>
+                      </ul>
+        </div>
+        <a href="/about-us/newsroom/social-media/" class="footer-social-more">See all of our social media</a>
+        <hr class="visible-mobile" />
+      </div>
+      <div class="nc-6 footer-subscribe">
+        <p id="newsletter-subscribe">Get the latest news from Nokia delivered straight to your inbox.</p>
+            
+  <a  aria-describedby="newsletter-subscribe" class="btn btn btn-transparent-white" href="/about-us/newsroom/news-releases/subscribe-to-the-latest-nokia-news/">Subscribe</a>
+      </div>
+    </div>
+    <hr class="visible-tablet visible-desktop" />
+                      <div class="nr footer-menu-specific">
+      <div class="nc-2">
+      <p class="h5"><a data-linktype="footer" href="https://www.nokia.com/partner-portal/">Partners</a></p>
+    </div>
+      <div class="nc-2">
+      <p class="h5"><a data-linktype="footer" href="https://www.nokia.com/networks/support/">Business support</a></p>
+    </div>
+      <div class="nc-2">
+      <p class="h5"><a data-linktype="footer" href="https://www.nokia.com/networks/training/">Training</a></p>
+    </div>
+      <div class="nc-2">
+      <p class="h5"><a data-linktype="footer" href="https://www.nokia.com/extranet-access/">Extranet access</a></p>
+    </div>
+      <div class="nc-2">
+      <p class="h5"><a data-linktype="footer" href="https://www.nokia.com/about-us/newsroom/events-calendar/">Events</a></p>
+    </div>
+  </div>
+<hr class="" />
+                    <div class="nr footer-menu-global">
+												<div class="nc-2">
+													<p class="h5">
+								<a data-linktype="footer" href="/">For business</a>
+							</p>
+												<ul>
+															<li>
+									<a data-linktype="footer" href="https://www.nokia.com/ozo/">Nokia OZO</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="/licensing/">Licensing opportunities</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="/networks/partners/">Partners and ecosystems</a>
+								</li>
+													</ul>
+					</div>
+									<div class="nc-2">
+													<p class="h5"><a data-linktype="footer" href="https://www.nokia.com/shop?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=footer">For consumers</a></p>
+												<ul>
+															<li>
+									<a data-linktype="footer" href="https://www.nokia.com/phones?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=footer">Phones</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="https://www.nokia.com/shop/laptops?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=footer">Laptops</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="https://www.nokia.com/shop/smart-tvs?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=footer">Smart TVs</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="https://www.nokia.com/shop/streaming-devices?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=footer">Streaming devices</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="https://www.nokia.com/shop/discover-home-wifi?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=footer">Home WiFi</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="https://www.nokia.com/shop/headphones?utm_source=nokia.com&amp;utm_medium=homepage&amp;utm_content=footer">Headphones</a>
+								</li>
+													</ul>
+					</div>
+									<div class="nc-2">
+													<p class="h5">
+								<a data-linktype="footer" href="/innovation/">Innovation</a>
+							</p>
+												<ul>
+															<li>
+									<a data-linktype="footer" href="https://www.bell-labs.com/">Nokia Bell Labs</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="https://inventwithnokia.nokia.com/">Innovation platform</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="https://open-ecosystem.org/">Open innovation ecosystem</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="https://www.ngpcap.com/">NGP Capital</a>
+								</li>
+													</ul>
+					</div>
+									<div class="nc-2">
+													<p class="h5">
+								<a data-linktype="footer" href="/about-us/">About us</a>
+							</p>
+												<ul>
+															<li>
+									<a data-linktype="footer" href="/about-us/company/">Company</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="/about-us/newsroom/">Newsroom</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="/about-us/investors/">Investors</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="/about-us/sustainability/">Sustainability</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="/about-us/careers/">Careers</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="/about-us/legal-compliance/">Compliance</a>
+								</li>
+													</ul>
+					</div>
+									<div class="nc-2">
+													<p class="h5">
+								<a data-linktype="footer" href="/">Contact and support</a>
+							</p>
+												<ul>
+															<li>
+									<a data-linktype="footer" href="/support/">Support</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="/extranet-access/">Extranet access</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="https://www.nokia.com/developer/">Developer resources and APIs</a>
+								</li>
+															<li>
+									<a data-linktype="footer" href="/contact-us/">Contact us</a>
+								</li>
+													</ul>
+					</div>
+									</div>
+    <div class="nr footer-global-legal">
+      <div class="nc-12">
+        <ul>
+                    <li>© 2022 Nokia All rights reserved</li>
+                                                    <li><a data-linktype="footer" href="/cookies/">Cookies</a></li>
+                                                        <li><a data-linktype="footer" href="/notices/privacy/">Privacy</a></li>
+                                                        <li><a data-linktype="footer" href="/notices/inclusive-terminology/">Inclusive terminology</a></li>
+                                                        <li><a data-linktype="footer" href="/modern-slavery-statement/">Modern slavery statement</a></li>
+                                                        <li><a data-linktype="footer" href="/notices/terms/">Terms</a></li>
+                                            </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+  </div>
+
+    </footer>
+  
+</div>
+  </div>
+
+    
+
+    
+
+    <!-- sm-BBwKs1h878dLQt4C -->
+
+  <script src="/sites/default/files/js/js_CDwFdFP9FkUdAEKqn6ePyYXEjsKMry-0C7pkz9_VsIc.js"></script>
+<script src="/themes/custom/onenokia_base_theme/js/main.min.js?v=0.4.0"></script>
+<script src="/sites/default/files/js/js_pCBALreFJQM5YKE9dNpCqhMRUhRy9sxbWrIFdYlULDU.js"></script>
+</body>
+</html>
